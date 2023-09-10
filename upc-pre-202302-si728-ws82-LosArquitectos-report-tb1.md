@@ -63,6 +63,66 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 ### **2.3.2. User Task Matrix**
 
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>User Task</th>
+            <th colspan=2>Cliente</th>
+        </tr>
+        <tr>
+            <th>Frequency</th>
+            <th>Severity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Buscar rutinas predeterminadas de ejercicio</td>
+            <td align="center">Multiple</td>
+            <td align="center">High</td>
+        </tr>
+        <tr>
+            <td>Filtrar rutinas por duración</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Filtrar rutinas por tipo</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Activar la supervisión de la ejecución de rutina de ejercicio</td>
+            <td align="center">Multiple</td>
+            <td align="center">High</td>
+        </tr>
+        <tr>
+            <td>Agregar rutinas de ejercicio a favoritos</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Visualizar rutinas favoritas</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Calificar rutinas de ejercicio</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Visualizar detalles de un ejercicio en específico</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Adquirir membresía</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **2.3.3. Empathy Mapping**
 
 ### **2.3.4. As-is Scenario Mapping**
