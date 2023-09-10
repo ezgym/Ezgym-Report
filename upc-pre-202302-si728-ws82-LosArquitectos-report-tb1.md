@@ -24,7 +24,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Nombre:** Victor Fajardo Rojas
 
-<img src="assets/profile_victor.png" width="150"/>
+<img src="assets/profile_victor.jpeg" width="150"/>
 
 **Carrera:** Ingeniería de software
 
