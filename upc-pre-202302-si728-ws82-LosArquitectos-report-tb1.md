@@ -59,7 +59,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 **Entrevista 5:** David Sanchez
 David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
 
-<img src="assets/entrevista_david.png" width="450"/>
+<img src="assets/entrevista_david.PNG" width="450"/>
 
 **Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
 
@@ -76,11 +76,11 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 
 # **Capítulo III: Requirements Specification**
 ## **3.1. To-Be Scenario Mapping**
-
+<img src="assets/to_be_mapping.PNG"/>
 ## **3.2. User Stories**
 
 ## **3.3. Impact Mapping**
-
+<img src="assets/impact_mapping.PNG"/>
 ## **3.4. Product Backlog**
 
 # **Capítulo IV: Strategic-Level Software Design**
@@ -107,7 +107,7 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 ### **4.2.2. Candidate Context Discovery**
 
 ### **4.2.3. Domain Message Flows Modeling**
-
+<img src="assets/domain_message_flow_diagram.PNG"/>
 ### **4.2.4. Bounded Context Canvases**
 
 ### **4.2.5. Context Mapping**
