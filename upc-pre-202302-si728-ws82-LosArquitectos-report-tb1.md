@@ -56,6 +56,13 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 ### **2.2.2. Registro de entrevistas**
 
+**Entrevista 5:** David Sanchez
+David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
+
+<img src="assets/entrevista_david.png" width="450"/>
+
+**Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
+
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
