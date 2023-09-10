@@ -14,6 +14,14 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 
+**Nombre:** Vanessa Irene Flores Ñahuis
+
+<img src="assets/profile_vanessa.jpg" width="150"/>
+
+**Carrera:** Ingeniería de software
+
+**Descripción:** Soy estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dispuesta a aprender nuevas habilidades y aportaré al equipo y al desarrollo del trabajo con los conocimientos que he adquirido en cursos previos y los conocimientos que adquiriré en este curso.
+
 ## **1.2. Solution Profile**
 ### **1.2.1 Antecedentes y problemática**
 
