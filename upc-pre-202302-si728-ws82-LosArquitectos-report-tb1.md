@@ -370,6 +370,16 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 
 #### **4.1.2.2. Quality attribute Scenarios**
 
+| Atributo | Fuente | Estímulo | Artefacto | Entorno | Respuesta | Medida |
+| -------- | ------ | -------- | --------- | ------- | --------- | ------ |
+| Disponibilidad | Usuario | Correo electrónico ya registrado | Formulario de la página | Carga máxima | Tiempo en segundos que el sistema demora en detectar si un correo electrónico ya se encuentra registrado | 1-2 segundos |
+| Rendimiento | Usuario | Búsqueda de rutinas | Buscador de la página | Carga moderada | Tiempo en segundos que el sistema demora en mostrar la lista de las rutinas que coincidan con lo especificado. | 2 segundos |
+| Rendimiento | Usuario | Búsqueda de rutinas con filtros | Buscador de la página | Carga máxima | Tiempo en segundos que el sistema demora en mostrar la lista de las rutinas que coincidan con lo especificado. | 4-5 segundos |
+| Rendimiento | Usuario | Postura incorrecta del usuario que no coincida con el ejercicio de la rutina que está realizando en ese momento | Supervisión de rutina mediante visión artificial y deep learning | Carga máxima | Tiempo en segundos que el sistema demora en detectar una postura incorrecta en la rutina del usuario. | 2-3 segundos |
+| Rendimiento  | Usuario | Clic en el botón para mostrar las rutinas favoritas | Botón que redirecciona a la página de rutinas favoritas | Carga máxima | Tiempo en segundos que el sistema demora en listar todas las rutinas favoritas | 2-3 segundos |
+| Rendimiento | Usuario | Clic en el botón con forma de corazón | Botón de la página | Carga moderada | Tiempo en segundos para almacenar una rutina en la lista de favoritos | 1 segundo |
+| Rendimiento | Usuario | Calificación otorgada a una rutina por el usuario | Íconos de estrellas que representan la calificación en la página | Carga moderada | Tiempo en segundos que el sistema demora en mostrar la nueva calificación promedio. | 1 segundo |
+
 #### **4.1.2.3. Constraints**
 
 ### **4.1.3. Architectural Drivers Backlog**
