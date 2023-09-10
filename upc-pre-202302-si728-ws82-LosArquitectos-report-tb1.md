@@ -161,7 +161,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la sección “Encontrar rutina” y una opción de duración está seleccionada cuando hago clic en otra opción de duración entonces el sistema mantiene seleccionada solamente la última opción escogida.
             <br><br>Escenario 3: Especificar duración
             <br>Dado que me encuentro en la sección “Encontrar rutina” cuando selecciono la opción duración personalizada, ingreso los parámetros de duración mínima y máxima, y hago clic en el ícono de la lupa entonces el sistema muestra las rutinas que coincidan con la duración especificada.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US03</td>
@@ -171,7 +171,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la sección “Encontrar rutina” cuando selecciono el tipo de rutina que deseo y hago clic en el ícono de la lupa entonces el sistema muestra todas las rutinas que coincidan con lo especificado.
             <br><br>Escenario 2: Selección de una sola opción
             <br>Dado que me encuentro en la sección “Encontrar rutina” y una opción de tipo de rutina está seleccionada cuando hago clic en otra opción de tipo de rutina entonces el sistema mantiene seleccionada solamente  la última opción escogida.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US04</td>
@@ -183,8 +183,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la vista de una rutina cuando la cámara está inhabilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema muestra un mensaje pidiendo que se otorgue a la aplicación los permisos de cámara.
             <br><br>Escenario 3: Error en la ejecución de la rutina
             <br>Dado que encuentro en la ventana “Supervisión en vivo de rutina” cuando el sistema detecta una postura incorrecta durante la rutina entonces muestra en pantalla una alerta y la postura en la que el usuario se equivocó.
-
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US05</td>
@@ -194,7 +193,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la vista de una de las rutinas cuando seleccione el ícono corazón entonces el sistema guardará la rutina en mi lista de rutinas favoritas.
             <br><br>Escenario 2: Rutina eliminada de favoritos
             <br>Dado que me encuentro en la vista de una de las rutinas y el ícono de corazón está seleccionado cuando seleccione el ícono de corazón entonces el sistema elimina la rutina de mi lista de rutinas favoritas.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US06</td>
@@ -204,7 +203,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la página principal cuando seleccione la opción “Rutinas favoritas” entonces el sistema me redirige a dicha sección y muestra todas las rutinas guardadas como favoritas.
             <br><br>Escenario 2: No hay rutinas favoritas
             <br>Dado que me encuentro en la página principal cuando seleccione la opción “Rutinas favoritas” y no tenga ninguna rutina guardada como favorita en la aplicación entonces el sistema muestra el mensaje “No ha guardado ninguna rutina como favorita”.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US07</td>
@@ -214,7 +213,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la vista de una rutina de ejercicio cuando selecciono la cantidad de estrellas que considero que se merece la rutina entonces el sistema promedia y muestra la nueva calificación general de la rutina.
             <br><br>Escenario 2: Calificación cambiada
             <br>Dado que me encuentro en la vista de una rutina de ejercicio cuando selecciono una nueva cantidad de estrellas que considero que se merece la rutina entonces el sistema modificará mi calificación, promedia nuevamente y muestra la nueva calificación general de la rutina.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US08</td>
@@ -224,7 +223,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la vista de la rutina de ejercicios cuando hago clic en uno de los ejercicios de la rutina entonces el sistema me redirige a la vista del ejercicio seleccionado.
             <br><br>Escenario 2: Volver a la rutina de ejercicios
             <br>Dado que me encuentro en la vista de un ejercicio de una rutina cuando hago clic en el ícono con una flecha hacia la izquierda entonces el sistema me redirige a la rutina de ejercicios a la que pertenece el ejercicio.
-</td>
+            </td>
         </tr>
         <tr>
             <td align="center">US09</td>
@@ -236,7 +235,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
             <br>Dado que me encuentro en la pasarela de pagos cuando ingreso el método de pago y complete correctamente los datos solicitados entonces el sistema indica que el pago se ha efectuado y cuento con plan escogido.
             <br><br>Escenario 3: Abandona pasarela de pagos
             <br>Dado que me encuentro en la pasarela de pagos cuando hago clic en el ícono con una flecha hacia la izquierda  entonces el sistema me redirige a la sección Planes.
-</td>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -244,6 +243,83 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 ## **3.3. Impact Mapping**
 
 ## **3.4. Product Backlog**
+
+<table>
+    <thead>
+        <tr>
+            <th>#Orden</th>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5/8)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">1</td>
+            <td align="center">US01</td>
+            <td>Buscar rutinas</td>
+            <td>Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable.</td>
+            <td align="center">8</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td align="center">US04</td>
+            <td>Activar supervisión de rutina</td>
+            <td>Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td align="center">8</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td align="center">US02</td>
+            <td>Filtrar rutinas por duración</td>
+            <td>Como cliente quiero filtrar rutinas de ejercicios según su duración para encontrar aquellas rutinas que se adecuen al tiempo que tengo disponible.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td align="center">US03</td>
+            <td>Filtrar rutinas por tipo</td>
+            <td>Como cliente quiero filtrar las rutinas de ejercicio según su tipo para ejercitar solamente las partes del cuerpo que desee.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">5</td>
+            <td align="center">US08</td>
+            <td>Visualizar un ejercicio</td>
+            <td>Como cliente quiero visualizar un ejercicio en particular para estudiar los movimientos y secuencia de pasos.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td align="center">US09</td>
+            <td>Adquirir plan</td>
+            <td>Como cliente quiero adquirir un plan para conseguir las funcionalidades premium de la aplicación.</td>
+            <td align="center">3</td>
+        </tr>
+        <tr>
+            <td align="center">7</td>
+            <td align="center">US05</td>
+            <td>Agregar rutina a favoritos</td>
+            <td>Como cliente quiero agregar una rutina a favoritos para posteriormente acceder rápidamente.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">8</td>
+            <td align="center">US06</td>
+            <td>Visualizar rutinas favoritas</td>
+            <td>Como cliente quiero visualizar mis rutinas favoritas para encontrar y acceder rápidamente a la rutina que desee.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">9</td>
+            <td align="center">US07</td>
+            <td>Calificar rutina de ejercicio</td>
+            <td>Como cliente quiero calificar una rutina de ejercicio para dar una valoración a dicha rutina.</td>
+            <td align="center">2</td>
+        </tr>
+    </tbody>
+</table>
 
 # **Capítulo IV: Strategic-Level Software Design**
 ## **4.1. Strategic-Level Attribute-Driven Design**
