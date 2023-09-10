@@ -66,6 +66,7 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
+Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
 ### **2.3.1. User Personas**
 
 ### **2.3.2. User Task Matrix**
