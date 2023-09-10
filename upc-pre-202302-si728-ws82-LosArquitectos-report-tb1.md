@@ -2,6 +2,16 @@
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
 
+Los Arquitectos es una startup de desarrollo de software que otorga, mediante el uso de deep learning, la facilidad de que nuevas personas puedan adentrarse al mundo fitness teniendo la seguridad de que la aplicación los ayudará a supervisar en vivo sus rutinas de ejercicio.
+
+**Misión**
+
+Facilitar rutinas de ejercicios a personas que comienzan a adentrarse al mundo fitness y supervisar sus rutinas de ejercicios mediante el uso de visión artificial y deep learning.
+
+**Visión**
+
+Ser una startup reconocida a nivel nacional y la primera opción de nuevos personas que ingresan por primera vez al mundo fitness.
+
 ### **1.1.2. Perfiles de integrantes del equipo**
 
 ## **1.2. Solution Profile**
