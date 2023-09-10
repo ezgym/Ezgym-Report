@@ -329,6 +329,45 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 #### **4.1.2.1. Primary Functionality (Primary User Stories)**
 
+Las historias de usuario más relevantes de nuestra solución de software son buscar rutinas y activar la supervisión de rutina de ejercicios, dado que ambas historias de usuario representan el core del negocio de nuestra startup.
+
+
+<table>
+    <thead>
+        <tr>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de aceptación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">US01</td>
+            <td>Buscar rutinas</td>
+            <td>Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable</td>
+            <td>Escenario 1: Búsqueda de rutinas
+            <br>Dado que me encuentro en la sección “Encontrar rutinas” cuando hago clic en la barra de búsqueda, escribe el nombre de la rutina de deseo y hago clic en el ícono de la lupa entonces el sistema muestra todos las rutinas que coincidan con lo especificado.
+            <br><br>Escenario 2: No se encontró ninguna rutina
+            <br>Dado que me encuentro en la barra de búsqueda de la sección “Encontrar rutina” cuando introduzco el nombre de una rutina que no coincida con ninguna rutina alojada en la aplicación y hago clic en el ícono de la lupa entonces el sistema muestra el mensaje “No se encontró ninguna rutina”.</td>
+        </tr>
+        <tr>
+            <td align="center">US04</td>
+            <td>Activar supervisión de rutina</td>
+            <td>Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td>Escenario 1: Supervisión activada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está habilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema me redirige a una nueva ventana donde se supervisa en vivo las posturas que realizo en mi rutina de ejercicios.
+            <br><br>Escenario 2: Cámara inhabilitada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está inhabilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema muestra un mensaje pidiendo que se otorgue a la aplicación los permisos de cámara.
+            <br><br>Escenario 3: Error en la ejecución de la rutina
+            <br>Dado que encuentro en la ventana “Supervisión en vivo de rutina” cuando el sistema detecta una postura incorrecta durante la rutina entonces muestra en pantalla una alerta y la postura en la que el usuario se equivocó.
+            </td>
+        </tr>
+        <tr>
+    </tbody>
+</table>
+
+
 #### **4.1.2.2. Quality attribute Scenarios**
 
 #### **4.1.2.3. Constraints**
