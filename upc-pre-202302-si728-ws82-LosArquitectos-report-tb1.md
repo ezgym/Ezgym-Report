@@ -46,6 +46,14 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy programador full stack interesado en desarrollo desktop y web con gran interés en la aplicación de nuevas tecnologías como solución a problemas actuales.
 
+**Nombre:** Gerardo Gabriel Caldas Díaz
+
+<img src="assets/profile_gerardo.jpeg" width="150"/>
+
+**Carrera:** Ingeniería de software
+
+**Descripción:** Me encuentro estudiando la carrera de Ingeniería de Software, cursando el octavo ciclo junto con noveno. Este proyecto que me encuentro realizando junto a mis compañeros de clases me va a ayudar mucho a desenvolverme en mi vida laboral ya qué estoy adquiriendo nuevos conocimientos.
+
 ## **1.2. Solution Profile**
 EzGym es una innovadora startup que ha revolucionado la forma en que las personas mejoran su salud y bienestar a través del ejercicio. Nuestra aplicación utiliza tecnologías de vanguardia en aprendizaje profundo (Deep Learning) y Visión artificial (Computer Vision) para verificar la correcta ejecución de rutinas de ejercicio, proporcionando a los usuarios una experiencia de entrenamiento personalizada y efectiva como nunca antes.
 ### **1.2.1 Antecedentes y problemática**
@@ -55,12 +63,15 @@ Por este motivo, la solución planteada busca ayudar a las personas en este nuev
 ### **1.2.2 Lean UX Process**
 
 #### **1.2.2.1. Lean UX Problem Statements**
+
 **Cliente:**
+
 Nuestro servicio busca cubrir la necesidad de las personas nuevas en el mundo del fitness, en términos de rutinas y su correcta ejecución, al proporcionar una solución integral y personalizada. Comprendemos que el ingreso al gimnasio puede ser abrumador y desafiante para aquellos sin experiencia previa. Por lo tanto, hemos diseñado un enfoque que no solo se centra en proporcionar rutinas de ejercicio efectivas, sino que también aborda la preocupación fundamental de cómo realizar los movimientos de manera segura y eficiente.
+
 Por lo que. ¿Cómo podemos ayudar a los principiantes a ejecutar los ejercicios y a la vez resguardar su seguridad?
 
-
 Nuestro servicio busca cubrir la necesidad de las personas nuevas en el mundo del fitness, en términos de rutinas y su correcta ejecución, al proporcionar una solución integral y personalizada. Comprendemos que el ingreso al gimnasio puede ser abrumador y desafiante para aquellos sin experiencia previa. Por lo tanto, hemos diseñado un enfoque que no solo se centra en proporcionar rutinas de ejercicio efectivas, sino que también aborda la preocupación fundamental de cómo realizar los movimientos de manera segura y eficiente.
+
 Por lo que. ¿Cómo podemos ayudar a los principiantes a ejecutar los ejercicios y a la vez resguardar su seguridad?
 
 #### **1.2.2.2. Lean UX Assumptions**
@@ -276,7 +287,12 @@ Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio
 
 **Link del video:** [Sergio Flores](https://youtu.be/BDjTYUqqFgU)
 
-**Entrevista 4:**
+**Entrevista 4:** Patricio Peña
+Patricio Alexander Peña Bordon es un joven estudiante de 20 años qué estudia negocios internacionales en la UPN. Es un joven qué se siente muy frustrado al momento de ir al gimnasio ya que siempre lo encuentra lleno y no le permite entrenar de manera adecuada. El tiene como motivación ganar masa muscular y perder peso, además de tener un buen físico para poder correr. A veces se desmotiva al sentir dolores en los músculos por ese motivo le parece interesante una aplicación que le permita realizar los ejercicios y le corrija cuando no lo haga adecuadamente.
+
+<img src="assets/entrevista_patricio.JPG" width="450"/>
+
+**Link del video:** [Patricio Peña](https://www.youtube.com/watch?v=H_AGGHVv9EE&ab_channel=GerardoCaldas)
 
 **Entrevista 5:** David Sanchez
 
@@ -395,6 +411,7 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 
 ### **2.3.3. Empathy Mapping**
 
+
 <img src="assets/empathy_mapping.jpg" width="750"/>
 
 ### **2.3.4. As-is Scenario Mapping**
@@ -402,9 +419,12 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 <img src="assets/as_is.jpg" width="750"/>
 
 # **Capítulo III: Requirements Specification**
+
 ## **3.1. To-Be Scenario Mapping**
 
+
 <img src="assets/to_be_mapping.PNG" width ="750"/>
+
 
 ## **3.2. User Stories**
 
@@ -517,6 +537,7 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 </table>
 
 ## **3.3. Impact Mapping**
+
 <img src="assets/impact_mapping.PNG"/>
 
 ## **3.4. Product Backlog**
@@ -610,7 +631,6 @@ El propósito del sistema es crear una aplicación que permita proporcionar una 
 
 Las historias de usuario más relevantes de nuestra solución de software son buscar rutinas y activar la supervisión de rutina de ejercicios, dado que ambas historias de usuario representan el core del negocio de nuestra startup.
 
-
 <table>
     <thead>
         <tr>
@@ -646,7 +666,6 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
     </tbody>
 </table>
 
-
 #### **4.1.2.2. Quality attribute Scenarios**
 
 | Atributo | Fuente | Estímulo | Artefacto | Entorno | Respuesta | Medida |
@@ -671,11 +690,50 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 | TS06 | Medio de pagos | Como desarrollador quiero que la aplicación móvil utilice los medios de pagos más utilizados (Débito y crédito) para que los usuarios puedan utilizar la forma de pago que prefieran. |
 | TS07 | Renovación de suscripción automática | Como desarrollador quiero que la suscripción pueda ser renovada automáticamente, a menos que el usuario decida cancelarla antes que termine su suscripción actual, para que pueda utilizar la aplicación sin interrupciones y preocupaciones. |
 
-
-
 ### **4.1.3. Architectural Drivers Backlog**
 
+Después de haber recolectado inputs, los clasificamos para que nos permita entender el impacto que generan al momento del desarrollo en nuestra arquitectura, en base a esto, podremos desarrollar los Architectural Drivers.
+
+Como nomenclatura para los inputs usaremos los siguientes:
+H: Importancia / impacto (alto)
+M: Importancia / impacto (medio)
+B: Importancia / impacto (bajo)
+
+Además, hemos colocado el orden de los drivers en base a la importancia / impacto.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>Driver ID</th>
+            <th rowspan=2>Título del Driver</th>
+            <th rowspan=2>Descripción</th>
+            <th rowspan=2>Importancia para Stakeholders</th>
+            <th rowspan=2>Impacto en Arquitectura Technical Complexity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>D-1</td>
+            <td align="center">Buscar rutinas</td>
+            <td align="center">Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable.</td>
+            <td align="center">H</td>
+            <td align="center">H</td>
+        </tr>
+        <tr>
+            <td>D-2</td>
+            <td align="center">Activar supervisión de rutina</td>
+            <td align="center">Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td align="center">H</td>
+            <td align="center">H</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **4.1.4. Architectural Design Decisions**
+
+En esta primera entrega del proyecto, contábamos como equipo con una arquitectura basada en el desarrollo de manera monolítica la cual no contaba con una integración de servicios externos. Por ende, luego de haber identificado los inputs que nos sirven para el desarrollo de los drivers, decidimos el cambio de arquitectura para implementar estrategias que nos permitan implementar los drivers mencionados.
+
+La finalidad de este cambio es la implementación de la aplicación web y el landing page y en un futuro, el app móvil integrándose con servicios externos, ya que, la complejidad en el desarrollo es el motivo por el cual decidimos el cambio.
 
 ### **4.1.5. Quality Attribute Scenario Refinements**
 
@@ -689,12 +747,18 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 <img src="assets/candidate_context.png" width="450"/>
 
 ### **4.2.3. Domain Message Flows Modeling**
+
+Presentamos los Message Flows Modelling para los dominios con alto valor en nuestro negocio, además, utilizamos el Separate Message and Contents para el diagrama del flujo de los diagramas.
+
 <img src="assets/domain_message_flow_diagram.PNG"/>
 
 ### **4.2.4. Bounded Context Canvases**
 <img src="assets/bounded_context_canvas.PNG"/>
 
 ### **4.2.5. Context Mapping**
+
+Para el context mapping colocamos algunos bounded context definidos previamente. Nos hemos dado cuenta que existen diversas relaciones.
+
 <img src="assets/context_mapping.PNG"/>
 
 ## **4.3. Software Architecture**
