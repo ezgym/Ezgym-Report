@@ -54,7 +54,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Colabore dando ideas para el dessarrollo del proyecto
               <br>- Participe en la exposicion
             </td>
-            <td rowspan=5></td>
+            <td rowspan=5>
+                La comunicación establecida para el desarrollo del proyecto por parte del equipo es muy efectiva. Esto debido a que usando la metodología agile y el framework de Scrum, se ha logrado que las reuniones se                 realicen a tiempo sin ningún contratiempo. 
+            </td>
         </tr>
         <tr>
             <td>
@@ -103,7 +105,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Diseñe las entrevistas y solution profile
               <br>- Comunicacion constante para arreglar o modificar partes del proyecto
             </td>
-            <td rowspan=5></td>
+            <td rowspan=5>Al realizar un trabajo en MD el cual puede ser modificado y visto por todos los miembros del grupo favorece a que se puedan corregir los errores entre todos y de esta manera tener una                             mejor presentación al momento de realizar el envío. </td>
         </tr>
         <tr>
             <td>
