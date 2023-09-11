@@ -120,6 +120,8 @@ Cuando las reseñas de nuestros usuarios sean en su mayoría extremadamente posi
 
 #### **1.2.2.4. Lean UX Canvas**
 
+<img src="assets/lean_ux.jpg" width="750"/>
+
 ## **1.3. Segmentos objetivo**
 
 Los usuarios de nuestra aplicación están conformados por un tipo de perfil. a continuacion se dara detalle:
