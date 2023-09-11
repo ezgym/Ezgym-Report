@@ -22,7 +22,6 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dispuesta a aprender nuevas habilidades y aportaré al equipo y al desarrollo del trabajo con los conocimientos que he adquirido en cursos previos y los conocimientos que adquiriré en este curso.
 
-
 **Nombre:** Adrian Fernando Liviapoma Mendez
 
 <img src="assets/profile_adrian.jpg" width="150"/>
@@ -39,6 +38,13 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy estudiante de la carrera de Ingeniería de Software, actualmente curso el 8vo ciclo. Tengo conocimiento en diversos lenguajes de programación tales como python, C, java y Dart y considero que estos podrán ser de utilidad en el desarrollo de este curso.
 
+**Nombre:** Victor Fajardo Rojas
+
+<img src="assets/profile_victor.jpeg" width="150"/>
+
+**Carrera:** Ingeniería de software
+
+**Descripción:** Soy programador full stack interesado en desarrollo desktop y web con gran interés en la aplicación de nuevas tecnologías como solución a problemas actuales.
 
 ## **1.2. Solution Profile**
 EzGym es una innovadora startup que ha revolucionado la forma en que las personas mejoran su salud y bienestar a través del ejercicio. Nuestra aplicación utiliza tecnologías de vanguardia en aprendizaje profundo (Deep Learning) y Visión artificial (Computer Vision) para verificar la correcta ejecución de rutinas de ejercicio, proporcionando a los usuarios una experiencia de entrenamiento personalizada y efectiva como nunca antes.
@@ -117,6 +123,109 @@ Para el desarrollo de este proyecto consideramos 3 posibles competidores de los 
 
 ### **2.1.1. Análisis competitivo**
 
+<table>
+    <tbody>
+        <tr>           
+            <th colspan=6>Competitive Analysis Landscape</th>
+        </tr>
+        <tr>           
+            <th colspan=6>El análisis realizado fue con el fin de analizar y desarrollar las posibles estrategias de mercado frente a los competidores directos e indirectos. El análisis realizado fue con el fin de analizar y desarrollar las posibles estrategias de mercado frente a los competidores directos e indirectos.</th>
+        </tr>
+        <tr>           
+            <th colspan=6>¿Cómo podemos diferenciarnos de las otras empresas presentes en el mercado del rubro fitness?</th>
+        </tr>
+        <tr>
+            <td colspan=2>" "</td>
+            <td align="center">SmartFit</td>
+            <td align="center">BodyTech</td>
+            <td align="center">RepCount</td>
+            <td align="center">EzGym</td>
+        </tr>
+        <tr>
+            <td>Perfil</td>
+            <td align="center">Overview</td>
+            <td align="center">Cadena de gimnasios que cuenta con precios bastante competitivos y una aplicación para complementar el entrenamiento</td>
+            <td>Cadena de gimnasios “premium” que cuenta con aplicación para complementar el entrenamiento</td>
+            <td align="center">Aplicación que permite generar rutinas y trackear los respectivos entrenamientos</td>
+            <td align="center">Aplicación que permite elegir ciertas rutinas predeterminadas y contar con una guia para realizar los ejercicios de manera correcta gracias a el uso de machine learning</td>
+        </tr>
+        <tr>
+            <td>" "</td>
+            <td align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td align="center">Gran cantidad de sucursales a nivel nacional e internacional</td>
+            <td>Uso de maquinarias y herramientas de mayor calidad</td>
+            <td align="center">Uso de aplicacion movil para trackear entrenamientos</td>
+            <td align="center">Uso de machine learning para complementar el entrenamiento</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Perfil de Marketing</td>
+            <td>Mercado objetivo</td>
+            <td>Deportistas principiantes</td>
+            <td>Deportistas avanzados </td>
+            <td>Deportistas avanzados</td>
+            <td>Deportistas principiantes</td>
+        </tr>
+        <tr>
+            <td>Estrategias de marketing</td>
+            <td>Ofrecen diversas ofertas para suscripción a sus planes</td>
+            <td>Ofrecen diversas ofertas para suscripción a sus planes.</td>
+            <td>Se enfocan en los deportistas avanzados quienes recomiendan la aplicación</td>
+            <td>Enfocarse en los deportistas principiantes los cuales son nuestro mercado objetivo.</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Perfil del producto</td>
+            <td>Productos & Servicios</td>
+            <td>Suscripción a gimnasios</td>
+            <td>Suscripción a gimnasios</td>
+            <td>Aplicación que permite trackear entrenamiento</td>
+            <td>Aplicación que brinda  apoyo durante el entrenamiento</td>
+        </tr>
+        <tr>
+            <td>Precios y Costos</td>
+            <td>Precios dependiendo de la suscripción que elijas (Black o Smart)</td>
+            <td>Precios en base a la cantidad de meses de la suscripción</td>
+            <td>Acceso premium que desbloquea nuevas funcionalidades</td>
+            <td>Acceso premium desbloquea nuevas funcionalidades</td>
+        </tr>
+        <tr>
+            <td>Canales de distribución (Web y/o móvil)</td>
+            <td>Plataforma Web, Presencial</td>
+            <td>Plataforma Web, Presencial</td>
+            <td>App Móvil</td>
+            <td>Plataforma web</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Análisis SWOT</td>
+            <td>Fortalezas</td>
+            <td>Amplia cantidad de sucursales en Lima y provincias</td>
+            <td>Gimnasio considerado por muchos como premium</td>
+            <td>Amplia configurabilidad de los entrenamientos según las necesidad del usuario</td>
+            <td>Uso de machine learning para la correcta ejecución de los ejercicios</td>
+        </tr>
+        <tr>
+            <td>Debilidades</td>
+            <td>No cuentan con la mejor maquinaria del mercado</td>
+            <td>Cuentan con precios más elevados con respecto a sus competidores</td>
+            <td>Complicada de usar para un usuario principiante</td>
+            <td>No es de mucha utilidad para un usuario avanzado</td>
+        </tr>
+        <tr>
+            <td>Oportunidades</td>
+            <td>Mejorar el equipo con el que cuenta los distintos gimnasios</td>
+            <td>Brindar mejores ofertas en los planes de suscripción</td>
+            <td>Brindar rutinas predeterminadas para usuarios principiantes</td>
+            <td>Brindar una amplia variedad de rutinas</td>
+        </tr>
+        <tr>
+            <td>Amenazas</td>
+            <td>Competidores que ofrecen mejores equipos.</td>
+            <td>Competidores que ofrecen precios menores</td>
+            <td>Competidores que ofrecen plataformas más intuitivas</td>
+            <td>Competidores que ofrecen mayor  variedad de entrenamientos y configuración</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
 ## **2.2. Entrevistas**
@@ -142,6 +251,7 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 * ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?
 ### **2.2.2. Registro de entrevistas**
 
+
 **Entrevista 1:** John Silva Kramer
 
 [<img src="assets/entrevista_jhon.jpg" width="600"/>](https://www.youtube.com/watch?v=QXPJKtuqNX0)
@@ -149,7 +259,12 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 Jhon es un estudiante de ingeniería de software de 22 años, él comenta que la motivación que tuvo para comenzar a hacer ejercicio fue ganar fuerza y verse bien. También mencionó que durante su trayecto tuvo múltiples obstáculos, ya que al ser nuevo no sabia que rutinas tomar o la forma correcta  de hacer los ejercicios. También comentó que la orientación que le dieron en el gym no era la adecuada, ya que para su gusto era bastante básica. También comenta que usa un app llamada “hevy” para mantener un registro de sus rutinas y avances.
 
 
-**Entrevista 2:**
+**Entrevista 2:** Andrea Liviapoma Mendez
+Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta que sus amigos la motivaron para comenzar a hacer ejercicio en el gimnasio. Menciona  que algunos de los obstáculos que enfrentó fue la gran cantidad de personas que había en el gimnasio en algunos horarios lo que generaba que el ambiente no fuera el adecuado para su entrenamiento disminuyendo así su motivación para entrenar, También menciona que siempre ha tenido buenas experiencias con los entrenadores del gimnasio ya que le brindaron información adecuada y siempre estaban atentos para poderle brindar el apoyo necesario con alguna técnica o la correcta utilización de las máquinas. Por último menciona que  tiene conocimiento de la existencia de aplicaciones que brindan apoyo con los entrenamientos pero que por el momento no utiliza ninguna personalmente sin embargo indica que en un futuro tiene pensado poder utilizar alguna de estas aplicaciones. 
+
+<img src="assets/entrevista_adrian.PNG" width="450"/>
+
+**Link del video:** [Andrea Liviapoma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EV3Ouk87indGizZp4JW7vhcBlKHE8DUffoNF7pcHImSlEA?e=HEJBrm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Entrevista 3:** Sergio Flores
 
@@ -159,12 +274,54 @@ Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio
 
 **Entrevista 4:**
 
-**Entrevista 5:**
+**Entrevista 5:** David Sanchez
+David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
+
+<img src="assets/entrevista_david.PNG" width="450"/>
+
+**Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
+
 
 
 ### **2.2.3. Análisis de entrevistas**
 
+<table>
+    <tbody>
+        <tr>
+            <td align="center">Preguntas Especificas</td>
+            <td align="center">Respuestas del Entrevistado</td>
+            <td align="center">Análisis</td>
+        </tr>
+        <tr>
+            <td>1. ¿Cómo te sientes acerca de la forma en que se te ha proporcionado orientación y apoyo en el gimnasio hasta ahora?</td>
+            <td>Consideramos que si bien existe un personal que brinda orientación dentro del gimnasio en muchos casos la información que se nos brinda es bastante básica y general.</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>
+        </tr>
+        <tr>
+            <td>2. ¿Has experimentado algún dolor muscular o incomodidad después de tus entrenamientos? ¿Cómo has lidiado con eso?</td>
+            <td>SI hemos presentado dolor muscular pero esto se debe a el inicio en los entrenamientos y el dolor que se genera luego de entrenar.</td>
+            <td>El entrevistado comenta que si han presentado dolor muscular pero esto es propio del entrenamiento y usualmente pasa luego de unos dias </td>        
+        </tr>
+        <tr>
+            <td>3. ¿Has tenido dificultades para mantener la motivación y la consistencia en tu rutina de ejercicio? ¿Cómo las superaste?</td>
+            <td>.Si presentamos algunas dificultades al principio para mantener la motivación pero gracias a la constancia logramos superar estos inconvenientes</td>
+            <td>Los entrevistados mencionan que si contaban con ciertas dificultades al comenzar su viaje fitness pero que gracias a la consistencia pudieron superar la falta de motivación</td>        
+        </tr>
+        <tr>
+            <td>4. ¿Has considerado utilizar aplicaciones o tecnología para ayudarte en tu entrenamiento? ¿Por qué sí o por qué no?</td>
+            <td>Por el momento no utilizamos aplicaciones para complementar el entrenamiento pero no dudamos que en un futuro podamos utilizarlas.</td>
+            <td>Los entrevistados mencionan que si tienen conocimiento de diversas aplicaciones que brindan apoyo para complementar los entrenamientos pero que por el momento no utilizan ninguna de estas sin embargo no rechazan la posibilidad de utilizar alguna de ellas en un futuro</td>        
+        </tr>
+        <tr>
+            <td>5. ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?</td>
+            <td>Alguna de las metas que buscamos son aumentar masa muscular, bajar de peso y gracias a esto mejorar nuestra calidad de vida</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>        
+        </tr>
+    </tbody>
+</table>
+
 ## **2.3. Needfinding**
+Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
 ### **2.3.1. User Personas**
 
 ### **2.3.2. User Task Matrix**
@@ -237,7 +394,6 @@ Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio
 ## **3.1. To-Be Scenario Mapping**
 
 <img src="assets/to_be_mapping.PNG"/>
-
 
 ## **3.2. User Stories**
 
@@ -350,7 +506,7 @@ Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio
 </table>
 
 ## **3.3. Impact Mapping**
-
+<img src="assets/impact_mapping.PNG"/>
 ## **3.4. Product Backlog**
 
 <table>
@@ -521,10 +677,13 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 <img src="assets/candidate_context.png" width="450"/>
 
 ### **4.2.3. Domain Message Flows Modeling**
+<img src="assets/domain_message_flow_diagram.PNG"/>
 
 ### **4.2.4. Bounded Context Canvases**
+<img src="assets/bounded_context_canvas.PNG"/>
 
 ### **4.2.5. Context Mapping**
+<img src="assets/context_mapping.PNG"/>
 
 ## **4.3. Software Architecture**
 ### **4.3.1. Software Architecture System Landscape Diagram**
@@ -537,4 +696,5 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 <img src="assets/container_diagram.jpg" width="450"/>
 
 ### **4.3.3. Software Architecture Deployment Diagrams**
+
 <img src="assets/deployment_diagram.jpg" width="450"/>
