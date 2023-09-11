@@ -258,11 +258,13 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 Jhon es un estudiante de ingeniería de software de 22 años, él comenta que la motivación que tuvo para comenzar a hacer ejercicio fue ganar fuerza y verse bien. También mencionó que durante su trayecto tuvo múltiples obstáculos, ya que al ser nuevo no sabia que rutinas tomar o la forma correcta  de hacer los ejercicios. También comentó que la orientación que le dieron en el gym no era la adecuada, ya que para su gusto era bastante básica. También comenta que usa un app llamada “hevy” para mantener un registro de sus rutinas y avances.
 
+**Link del video:** [John Silva](https://www.youtube.com/watch?v=QXPJKtuqNX0)
 
 **Entrevista 2:** Andrea Liviapoma Mendez
-Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta que sus amigos la motivaron para comenzar a hacer ejercicio en el gimnasio. Menciona  que algunos de los obstáculos que enfrentó fue la gran cantidad de personas que había en el gimnasio en algunos horarios lo que generaba que el ambiente no fuera el adecuado para su entrenamiento disminuyendo así su motivación para entrenar, También menciona que siempre ha tenido buenas experiencias con los entrenadores del gimnasio ya que le brindaron información adecuada y siempre estaban atentos para poderle brindar el apoyo necesario con alguna técnica o la correcta utilización de las máquinas. Por último menciona que  tiene conocimiento de la existencia de aplicaciones que brindan apoyo con los entrenamientos pero que por el momento no utiliza ninguna personalmente sin embargo indica que en un futuro tiene pensado poder utilizar alguna de estas aplicaciones. 
 
 <img src="assets/entrevista_adrian.PNG" width="450"/>
+
+Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta que sus amigos la motivaron para comenzar a hacer ejercicio en el gimnasio. Menciona  que algunos de los obstáculos que enfrentó fue la gran cantidad de personas que había en el gimnasio en algunos horarios lo que generaba que el ambiente no fuera el adecuado para su entrenamiento disminuyendo así su motivación para entrenar, También menciona que siempre ha tenido buenas experiencias con los entrenadores del gimnasio ya que le brindaron información adecuada y siempre estaban atentos para poderle brindar el apoyo necesario con alguna técnica o la correcta utilización de las máquinas. Por último menciona que  tiene conocimiento de la existencia de aplicaciones que brindan apoyo con los entrenamientos pero que por el momento no utiliza ninguna personalmente sin embargo indica que en un futuro tiene pensado poder utilizar alguna de estas aplicaciones. 
 
 **Link del video:** [Andrea Liviapoma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EV3Ouk87indGizZp4JW7vhcBlKHE8DUffoNF7pcHImSlEA?e=HEJBrm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
@@ -272,12 +274,15 @@ Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta q
 
 Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio comenta que su motivación para unirse a un gimnasio fue mantener su peso y un buen estado físico. En un inicio consideró que sería sencillo hacer ejercicio, sin embargo se dio cuenta que cuando se exige demasiado termina con los músculos lastimados y tiene que descansar antes de continuar con los ejercicios. Hasta el momento, Sergio comenta que ha recibido una buena orientación en el gimnasio. La rutina de ejercicio que prefiere se llama “six pack” y ha podido mantener la motivación y consistencia durante la rutina de ejercicios. Sergio comentó que anteriormente utilizaba una aplicación para sus rutinas en casa, pero que después de ir al gimnasio ya no tuvo la necesidad de usarlo, puesto que ahí contaba con un personal que pudiera ayudarlo. Sergio no cuenta con una meta fija, simplemente desea continuar haciendo ejercicio rutinariamente para mantener su físico sin exigirse demasiado.
 
+**Link del video:** [Sergio Flores](https://youtu.be/BDjTYUqqFgU)
+
 **Entrevista 4:**
 
 **Entrevista 5:** David Sanchez
-David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
 
 <img src="assets/entrevista_david.PNG" width="450"/>
+
+David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
 
 **Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
 
@@ -323,6 +328,8 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 ## **2.3. Needfinding**
 Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
 ### **2.3.1. User Personas**
+
+<img src="assets/user_persona.jpg" width="450"/>
 
 ### **2.3.2. User Task Matrix**
 
@@ -388,12 +395,16 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 
 ### **2.3.3. Empathy Mapping**
 
+<img src="assets/empathy_mapping.jpg" width="750"/>
+
 ### **2.3.4. As-is Scenario Mapping**
+
+<img src="assets/as_is.jpg" width="750"/>
 
 # **Capítulo III: Requirements Specification**
 ## **3.1. To-Be Scenario Mapping**
 
-<img src="assets/to_be_mapping.PNG"/>
+<img src="assets/to_be_mapping.PNG" width ="750"/>
 
 ## **3.2. User Stories**
 
@@ -507,6 +518,7 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 
 ## **3.3. Impact Mapping**
 <img src="assets/impact_mapping.PNG"/>
+
 ## **3.4. Product Backlog**
 
 <table>
