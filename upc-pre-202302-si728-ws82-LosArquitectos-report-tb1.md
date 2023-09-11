@@ -46,6 +46,14 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy programador full stack interesado en desarrollo desktop y web con gran interés en la aplicación de nuevas tecnologías como solución a problemas actuales.
 
+**Nombre:** Gerardo Gabriel Caldas Díaz
+
+<img src="assets/profile_gerardo.jpeg" width="150"/>
+
+**Carrera:** Ingeniería de software
+
+**Descripción:** Me encuentro estudiando la carrera de Ingeniería de Software, cursando el octavo ciclo junto con noveno. Este proyecto que me encuentro realizando junto a mis compañeros de clases me va a ayudar mucho a desenvolverme en mi vida laboral ya qué estoy adquiriendo nuevos conocimientos.
+
 ## **1.2. Solution Profile**
 EzGym es una innovadora startup que ha revolucionado la forma en que las personas mejoran su salud y bienestar a través del ejercicio. Nuestra aplicación utiliza tecnologías de vanguardia en aprendizaje profundo (Deep Learning) y Visión artificial (Computer Vision) para verificar la correcta ejecución de rutinas de ejercicio, proporcionando a los usuarios una experiencia de entrenamiento personalizada y efectiva como nunca antes.
 ### **1.2.1 Antecedentes y problemática**
@@ -55,12 +63,15 @@ Por este motivo, la solución planteada busca ayudar a las personas en este nuev
 ### **1.2.2 Lean UX Process**
 
 #### **1.2.2.1. Lean UX Problem Statements**
+
 **Cliente:**
+
 Nuestro servicio busca cubrir la necesidad de las personas nuevas en el mundo del fitness, en términos de rutinas y su correcta ejecución, al proporcionar una solución integral y personalizada. Comprendemos que el ingreso al gimnasio puede ser abrumador y desafiante para aquellos sin experiencia previa. Por lo tanto, hemos diseñado un enfoque que no solo se centra en proporcionar rutinas de ejercicio efectivas, sino que también aborda la preocupación fundamental de cómo realizar los movimientos de manera segura y eficiente.
+
 Por lo que. ¿Cómo podemos ayudar a los principiantes a ejecutar los ejercicios y a la vez resguardar su seguridad?
 
-
 Nuestro servicio busca cubrir la necesidad de las personas nuevas en el mundo del fitness, en términos de rutinas y su correcta ejecución, al proporcionar una solución integral y personalizada. Comprendemos que el ingreso al gimnasio puede ser abrumador y desafiante para aquellos sin experiencia previa. Por lo tanto, hemos diseñado un enfoque que no solo se centra en proporcionar rutinas de ejercicio efectivas, sino que también aborda la preocupación fundamental de cómo realizar los movimientos de manera segura y eficiente.
+
 Por lo que. ¿Cómo podemos ayudar a los principiantes a ejecutar los ejercicios y a la vez resguardar su seguridad?
 
 #### **1.2.2.2. Lean UX Assumptions**
@@ -148,6 +159,13 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 * ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?
 ### **2.2.2. Registro de entrevistas**
 
+**Entrevista 4:** Patricio Peña
+Patricio Alexander Peña Bordon es un joven estudiante de 20 años qué estudia negocios internacionales en la UPN. Es un joven qué se siente muy frustrado al momento de ir al gimnasio ya que siempre lo encuentra lleno y no le permite entrenar de manera adecuada. El tiene como motivación ganar masa muscular y perder peso, además de tener un buen físico para poder correr. A veces se desmotiva al sentir dolores en los músculos por ese motivo le parece interesante una aplicación que le permita realizar los ejercicios y le corrija cuando no lo haga adecuadamente.
+
+<img src="assets/entrevista_patricio.JPG" width="450"/>
+
+**Link del video:** [Patricio Peña](https://www.youtube.com/watch?v=H_AGGHVv9EE&ab_channel=GerardoCaldas)
+
 **Entrevista 5:** David Sanchez
 David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
 
@@ -160,6 +178,8 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 ## **2.3. Needfinding**
 Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
 ### **2.3.1. User Personas**
+
+<img src="assets/user_persona.jpeg" width="450"/>
 
 ### **2.3.2. User Task Matrix**
 
