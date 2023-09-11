@@ -2,7 +2,7 @@
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
 
-Los Arquitectos es una startup de desarrollo de software que otorga, mediante el uso de deep learning, la facilidad de que nuevas personas puedan adentrarse al mundo fitness teniendo la seguridad de que la aplicación los ayudará a supervisar en vivo sus rutinas de ejercicio.
+Los Arquitectos es una startup de desarrollo de software que otorga, mediante el uso de deep learning y visión artificial, la facilidad de que nuevas personas puedan adentrarse al mundo fitness teniendo la seguridad de que la aplicación los ayudará a supervisar en vivo sus rutinas de ejercicio.
 
 **Misión**
 
@@ -149,6 +149,66 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 ### **2.3.2. User Task Matrix**
 
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>User Task</th>
+            <th colspan=2>Cliente</th>
+        </tr>
+        <tr>
+            <th>Frequency</th>
+            <th>Severity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Buscar rutinas predeterminadas de ejercicio</td>
+            <td align="center">Multiple</td>
+            <td align="center">High</td>
+        </tr>
+        <tr>
+            <td>Filtrar rutinas por duración</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Filtrar rutinas por tipo</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Activar la supervisión de la ejecución de rutina de ejercicio</td>
+            <td align="center">Multiple</td>
+            <td align="center">High</td>
+        </tr>
+        <tr>
+            <td>Agregar rutinas de ejercicio a favoritos</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Visualizar rutinas favoritas</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Calificar rutinas de ejercicio</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Visualizar detalles de un ejercicio en específico</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+        <tr>
+            <td>Adquirir membresía</td>
+            <td align="center">Rare</td>
+            <td align="center">Medium</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **2.3.3. Empathy Mapping**
 
 ### **2.3.4. As-is Scenario Mapping**
@@ -158,9 +218,194 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 ## **3.2. User Stories**
 
+<table>
+    <thead>
+        <tr>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de aceptación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">US01</td>
+            <td>Buscar rutinas</td>
+            <td>Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable</td>
+            <td>Escenario 1: Búsqueda de rutinas
+            <br>Dado que me encuentro en la sección “Encontrar rutinas” cuando hago clic en la barra de búsqueda, escribe el nombre de la rutina de deseo y hago clic en el ícono de la lupa entonces el sistema muestra todos las rutinas que coincidan con lo especificado.
+            <br><br>Escenario 2: No se encontró ninguna rutina
+            <br>Dado que me encuentro en la barra de búsqueda de la sección “Encontrar rutina” cuando introduzco el nombre de una rutina que no coincida con ninguna rutina alojada en la aplicación y hago clic en el ícono de la lupa entonces el sistema muestra el mensaje “No se encontró ninguna rutina”.</td>
+        </tr>
+        <tr>
+            <td align="center">US02</td>
+            <td>Filtrar rutinas por duració</td>
+            <td>Como cliente quiero filtrar rutinas de ejercicios según su duración para encontrar aquellas rutinas que se adecuen al tiempo que tengo disponible.</td>
+            <td>Escenario 1: Búsqueda filtrada según duración
+            <br>Dado que me encuentro en la sección “Encontrar rutina” cuando selecciono la duración que deseo y hago clic en el ícono de la lupa entonces el sistema muestra todas las rutinas que coincidan con la duración especificada.
+            <br><br>Escenario 2: Selección de una sola opción
+            <br>Dado que me encuentro en la sección “Encontrar rutina” y una opción de duración está seleccionada cuando hago clic en otra opción de duración entonces el sistema mantiene seleccionada solamente la última opción escogida.
+            <br><br>Escenario 3: Especificar duración
+            <br>Dado que me encuentro en la sección “Encontrar rutina” cuando selecciono la opción duración personalizada, ingreso los parámetros de duración mínima y máxima, y hago clic en el ícono de la lupa entonces el sistema muestra las rutinas que coincidan con la duración especificada.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US03</td>
+            <td>Filtrar rutinas por tipo</td>
+            <td>Como cliente quiero filtrar las rutinas de ejercicio según su tipo para ejercitar solamente las partes del cuerpo que desee.</td>
+            <td>Escenario 1: Búsqueda filtrada según tipo
+            <br>Dado que me encuentro en la sección “Encontrar rutina” cuando selecciono el tipo de rutina que deseo y hago clic en el ícono de la lupa entonces el sistema muestra todas las rutinas que coincidan con lo especificado.
+            <br><br>Escenario 2: Selección de una sola opción
+            <br>Dado que me encuentro en la sección “Encontrar rutina” y una opción de tipo de rutina está seleccionada cuando hago clic en otra opción de tipo de rutina entonces el sistema mantiene seleccionada solamente  la última opción escogida.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US04</td>
+            <td>Activar supervisión de rutina</td>
+            <td>Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td>Escenario 1: Supervisión activada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está habilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema me redirige a una nueva ventana donde se supervisa en vivo las posturas que realizo en mi rutina de ejercicios.
+            <br><br>Escenario 2: Cámara inhabilitada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está inhabilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema muestra un mensaje pidiendo que se otorgue a la aplicación los permisos de cámara.
+            <br><br>Escenario 3: Error en la ejecución de la rutina
+            <br>Dado que encuentro en la ventana “Supervisión en vivo de rutina” cuando el sistema detecta una postura incorrecta durante la rutina entonces muestra en pantalla una alerta y la postura en la que el usuario se equivocó.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US05</td>
+            <td>Agregar rutina a favoritos</td>
+            <td>Como cliente quiero agregar una rutina a favoritos para posteriormente acceder rápidamente.</td>
+            <td>Escenario 1: Rutina guardada en favoritos
+            <br>Dado que me encuentro en la vista de una de las rutinas cuando seleccione el ícono corazón entonces el sistema guardará la rutina en mi lista de rutinas favoritas.
+            <br><br>Escenario 2: Rutina eliminada de favoritos
+            <br>Dado que me encuentro en la vista de una de las rutinas y el ícono de corazón está seleccionado cuando seleccione el ícono de corazón entonces el sistema elimina la rutina de mi lista de rutinas favoritas.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US06</td>
+            <td>Visualizar rutinas favoritas</td>
+            <td>Como cliente quiero visualizar mis rutinas favoritas para encontrar y acceder rápidamente a la rutina que desee.</td>
+            <td>Escenario 1: Todas las rutinas favoritas
+            <br>Dado que me encuentro en la página principal cuando seleccione la opción “Rutinas favoritas” entonces el sistema me redirige a dicha sección y muestra todas las rutinas guardadas como favoritas.
+            <br><br>Escenario 2: No hay rutinas favoritas
+            <br>Dado que me encuentro en la página principal cuando seleccione la opción “Rutinas favoritas” y no tenga ninguna rutina guardada como favorita en la aplicación entonces el sistema muestra el mensaje “No ha guardado ninguna rutina como favorita”.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US07</td>
+            <td>Calificar rutina de ejercicio</td>
+            <td>Como cliente quiero calificar una rutina de ejercicio para dar una valoración a dicha rutina.</td>
+            <td>Escenario 1: Rutina calificada
+            <br>Dado que me encuentro en la vista de una rutina de ejercicio cuando selecciono la cantidad de estrellas que considero que se merece la rutina entonces el sistema promedia y muestra la nueva calificación general de la rutina.
+            <br><br>Escenario 2: Calificación cambiada
+            <br>Dado que me encuentro en la vista de una rutina de ejercicio cuando selecciono una nueva cantidad de estrellas que considero que se merece la rutina entonces el sistema modificará mi calificación, promedia nuevamente y muestra la nueva calificación general de la rutina.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US08</td>
+            <td>Visualizar un ejercicio</td>
+            <td>Como cliente quiero visualizar un ejercicio en particular para estudiar los movimientos y secuencia de pasos.</td>
+            <td>Escenario 1: Visualizar ejercicio
+            <br>Dado que me encuentro en la vista de la rutina de ejercicios cuando hago clic en uno de los ejercicios de la rutina entonces el sistema me redirige a la vista del ejercicio seleccionado.
+            <br><br>Escenario 2: Volver a la rutina de ejercicios
+            <br>Dado que me encuentro en la vista de un ejercicio de una rutina cuando hago clic en el ícono con una flecha hacia la izquierda entonces el sistema me redirige a la rutina de ejercicios a la que pertenece el ejercicio.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US09</td>
+            <td>Adquirir plan</td>
+            <td>Como cliente quiero adquirir un plan para conseguir las funcionalidades premium de la aplicación.</td>
+            <td>Escenario 1: Pasarela de pagos
+            <br>Dado que me encuentro en la sección “Planes” cuando selecciono un plan entonces el sistema me redirige a la pasarela de pagos.
+            <br><br>Escenario 2: Plan adquirido
+            <br>Dado que me encuentro en la pasarela de pagos cuando ingreso el método de pago y complete correctamente los datos solicitados entonces el sistema indica que el pago se ha efectuado y cuento con plan escogido.
+            <br><br>Escenario 3: Abandona pasarela de pagos
+            <br>Dado que me encuentro en la pasarela de pagos cuando hago clic en el ícono con una flecha hacia la izquierda  entonces el sistema me redirige a la sección Planes.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## **3.3. Impact Mapping**
 
 ## **3.4. Product Backlog**
+
+<table>
+    <thead>
+        <tr>
+            <th>#Orden</th>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5/8)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">1</td>
+            <td align="center">US01</td>
+            <td>Buscar rutinas</td>
+            <td>Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable.</td>
+            <td align="center">8</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td align="center">US04</td>
+            <td>Activar supervisión de rutina</td>
+            <td>Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td align="center">8</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td align="center">US02</td>
+            <td>Filtrar rutinas por duración</td>
+            <td>Como cliente quiero filtrar rutinas de ejercicios según su duración para encontrar aquellas rutinas que se adecuen al tiempo que tengo disponible.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td align="center">US03</td>
+            <td>Filtrar rutinas por tipo</td>
+            <td>Como cliente quiero filtrar las rutinas de ejercicio según su tipo para ejercitar solamente las partes del cuerpo que desee.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">5</td>
+            <td align="center">US08</td>
+            <td>Visualizar un ejercicio</td>
+            <td>Como cliente quiero visualizar un ejercicio en particular para estudiar los movimientos y secuencia de pasos.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td align="center">US09</td>
+            <td>Adquirir plan</td>
+            <td>Como cliente quiero adquirir un plan para conseguir las funcionalidades premium de la aplicación.</td>
+            <td align="center">3</td>
+        </tr>
+        <tr>
+            <td align="center">7</td>
+            <td align="center">US05</td>
+            <td>Agregar rutina a favoritos</td>
+            <td>Como cliente quiero agregar una rutina a favoritos para posteriormente acceder rápidamente.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">8</td>
+            <td align="center">US06</td>
+            <td>Visualizar rutinas favoritas</td>
+            <td>Como cliente quiero visualizar mis rutinas favoritas para encontrar y acceder rápidamente a la rutina que desee.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">9</td>
+            <td align="center">US07</td>
+            <td>Calificar rutina de ejercicio</td>
+            <td>Como cliente quiero calificar una rutina de ejercicio para dar una valoración a dicha rutina.</td>
+            <td align="center">2</td>
+        </tr>
+    </tbody>
+</table>
 
 # **Capítulo IV: Strategic-Level Software Design**
 ## **4.1. Strategic-Level Attribute-Driven Design**
@@ -172,9 +417,70 @@ El propósito del sistema es crear una aplicación que permita proporcionar una 
 
 #### **4.1.2.1. Primary Functionality (Primary User Stories)**
 
+Las historias de usuario más relevantes de nuestra solución de software son buscar rutinas y activar la supervisión de rutina de ejercicios, dado que ambas historias de usuario representan el core del negocio de nuestra startup.
+
+
+<table>
+    <thead>
+        <tr>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de aceptación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">US01</td>
+            <td>Buscar rutinas</td>
+            <td>Como cliente quiero buscar rutinas de ejercicios para ejercitarte y mantenerte más saludable</td>
+            <td>Escenario 1: Búsqueda de rutinas
+            <br>Dado que me encuentro en la sección “Encontrar rutinas” cuando hago clic en la barra de búsqueda, escribe el nombre de la rutina de deseo y hago clic en el ícono de la lupa entonces el sistema muestra todos las rutinas que coincidan con lo especificado.
+            <br><br>Escenario 2: No se encontró ninguna rutina
+            <br>Dado que me encuentro en la barra de búsqueda de la sección “Encontrar rutina” cuando introduzco el nombre de una rutina que no coincida con ninguna rutina alojada en la aplicación y hago clic en el ícono de la lupa entonces el sistema muestra el mensaje “No se encontró ninguna rutina”.</td>
+        </tr>
+        <tr>
+            <td align="center">US04</td>
+            <td>Activar supervisión de rutina</td>
+            <td>Como cliente quiero activar la supervisión de mis rutas de ejercicio en vivo para que la aplicación pueda verificar su correcta ejecución.</td>
+            <td>Escenario 1: Supervisión activada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está habilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema me redirige a una nueva ventana donde se supervisa en vivo las posturas que realizo en mi rutina de ejercicios.
+            <br><br>Escenario 2: Cámara inhabilitada
+            <br>Dado que me encuentro en la vista de una rutina cuando la cámara está inhabilitada y selecciono la opción “Supervisar rutina en vivo” entonces el sistema muestra un mensaje pidiendo que se otorgue a la aplicación los permisos de cámara.
+            <br><br>Escenario 3: Error en la ejecución de la rutina
+            <br>Dado que encuentro en la ventana “Supervisión en vivo de rutina” cuando el sistema detecta una postura incorrecta durante la rutina entonces muestra en pantalla una alerta y la postura en la que el usuario se equivocó.
+            </td>
+        </tr>
+        <tr>
+    </tbody>
+</table>
+
+
 #### **4.1.2.2. Quality attribute Scenarios**
 
+| Atributo | Fuente | Estímulo | Artefacto | Entorno | Respuesta | Medida |
+| -------- | ------ | -------- | --------- | ------- | --------- | ------ |
+| Disponibilidad | Usuario | Correo electrónico ya registrado | Formulario de la página | Carga máxima | Tiempo en segundos que el sistema demora en detectar si un correo electrónico ya se encuentra registrado | 1-2 segundos |
+| Rendimiento | Usuario | Búsqueda de rutinas | Buscador de la página | Carga moderada | Tiempo en segundos que el sistema demora en mostrar la lista de las rutinas que coincidan con lo especificado. | 2 segundos |
+| Rendimiento | Usuario | Búsqueda de rutinas con filtros | Buscador de la página | Carga máxima | Tiempo en segundos que el sistema demora en mostrar la lista de las rutinas que coincidan con lo especificado. | 4-5 segundos |
+| Rendimiento | Usuario | Postura incorrecta del usuario que no coincida con el ejercicio de la rutina que está realizando en ese momento | Supervisión de rutina mediante visión artificial y deep learning | Carga máxima | Tiempo en segundos que el sistema demora en detectar una postura incorrecta en la rutina del usuario. | 2-3 segundos |
+| Rendimiento  | Usuario | Clic en el botón para mostrar las rutinas favoritas | Botón que redirecciona a la página de rutinas favoritas | Carga máxima | Tiempo en segundos que el sistema demora en listar todas las rutinas favoritas | 2-3 segundos |
+| Rendimiento | Usuario | Clic en el botón con forma de corazón | Botón de la página | Carga moderada | Tiempo en segundos para almacenar una rutina en la lista de favoritos | 1 segundo |
+| Rendimiento | Usuario | Calificación otorgada a una rutina por el usuario | Íconos de estrellas que representan la calificación en la página | Carga moderada | Tiempo en segundos que el sistema demora en mostrar la nueva calificación promedio. | 1 segundo |
+
 #### **4.1.2.3. Constraints**
+
+| Technical Story ID | Título | Descripción |
+| ------------------ | ------ | ----------- |
+| TS01 | Aplicación móvil en Android y iOS | Como desarrollador quiero que la aplicación móvil sea accedida desde un dispositivo Android y iOS para que los usuarios puedan usarla sin preocuparse del sistema operativo que usan. |
+| TS02 | Aplicación móvil utiliza software de código abierto | Como desarrollador quiero que las tecnologías utilizadas para el desarrollo de la aplicación móvil sea software de código abierto (open source) para que el costo sea el mínimo posible. |
+| TS03 | Base de datos no relacional | Como desarrollador quiero que la base de datos utilizada para la aplicación móvil sea no relacional para aprovechar su funcionalidad. |
+| TS04 | Aplicación móvil utiliza MediaPipe | Como desarrollador quiero que la aplicación móvil utilice MediaPipe para reconocer la postura del usuario. |
+| TS05 | Soporte de usuarios que acceden simultáneamente | Como desarrollador quiero que la aplicación móvil pueda soportar como mínimo 100 usuarios simultáneamente para garantizar el correcto funcionamiento cuando la aplicación sea desplegada. |
+| TS06 | Medio de pagos | Como desarrollador quiero que la aplicación móvil utilice los medios de pagos más utilizados (Débito y crédito) para que los usuarios puedan utilizar la forma de pago que prefieran. |
+| TS07 | Renovación de suscripción automática | Como desarrollador quiero que la suscripción pueda ser renovada automáticamente, a menos que el usuario decida cancelarla antes que termine su suscripción actual, para que pueda utilizar la aplicación sin interrupciones y preocupaciones. |
+
+
 
 ### **4.1.3. Architectural Drivers Backlog**
 
