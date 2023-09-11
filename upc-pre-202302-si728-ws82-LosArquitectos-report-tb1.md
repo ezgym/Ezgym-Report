@@ -247,6 +247,41 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 ### **2.2.3. Análisis de entrevistas**
 
+<table>
+    <tbody>
+        <tr>
+            <td align="center">Preguntas Especificas</td>
+            <td align="center">Respuestas del Entrevistado</td>
+            <td align="center">Análisis</td>
+        </tr>
+        <tr>
+            <td>1. ¿Cómo te sientes acerca de la forma en que se te ha proporcionado orientación y apoyo en el gimnasio hasta ahora?</td>
+            <td>Consideramos que si bien existe un personal que brinda orientación dentro del gimnasio en muchos casos la información que se nos brinda es bastante básica y general.</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>
+        </tr>
+        <tr>
+            <td>2. ¿Has experimentado algún dolor muscular o incomodidad después de tus entrenamientos? ¿Cómo has lidiado con eso?</td>
+            <td>SI hemos presentado dolor muscular pero esto se debe a el inicio en los entrenamientos y el dolor que se genera luego de entrenar.</td>
+            <td>El entrevistado comenta que si han presentado dolor muscular pero esto es propio del entrenamiento y usualmente pasa luego de unos dias </td>        
+        </tr>
+        <tr>
+            <td>3. ¿Has tenido dificultades para mantener la motivación y la consistencia en tu rutina de ejercicio? ¿Cómo las superaste?</td>
+            <td>.Si presentamos algunas dificultades al principio para mantener la motivación pero gracias a la constancia logramos superar estos inconvenientes</td>
+            <td>Los entrevistados mencionan que si contaban con ciertas dificultades al comenzar su viaje fitness pero que gracias a la consistencia pudieron superar la falta de motivación</td>        
+        </tr>
+        <tr>
+            <td>4. ¿Has considerado utilizar aplicaciones o tecnología para ayudarte en tu entrenamiento? ¿Por qué sí o por qué no?</td>
+            <td>Por el momento no utilizamos aplicaciones para complementar el entrenamiento pero no dudamos que en un futuro podamos utilizarlas.</td>
+            <td>Los entrevistados mencionan que si tienen conocimiento de diversas aplicaciones que brindan apoyo para complementar los entrenamientos pero que por el momento no utilizan ninguna de estas sin embargo no rechazan la posibilidad de utilizar alguna de ellas en un futuro</td>        
+        </tr>
+        <tr>
+            <td>5. ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?</td>
+            <td>Alguna de las metas que buscamos son aumentar masa muscular, bajar de peso y gracias a esto mejorar nuestra calidad de vida</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>        
+        </tr>
+    </tbody>
+</table>
+
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
 
