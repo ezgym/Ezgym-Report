@@ -790,16 +790,18 @@ Para el context mapping colocamos algunos bounded context definidos previamente.
 ### **4.3.1. Software Architecture System Landscape Diagram**
 <img src="assets/landscapediagram.jpg" width="450"/>
 
-### **4.3.1. Software Architecture Context Level Diagrams**
+### **4.3.2. Software Architecture Context Level Diagrams**
 <img src="assets/context_diagram.jpg" width="450"/>
 
-### **4.3.2. Software Architecture Container Level Diagrams**
+### **4.3.3. Software Architecture Container Level Diagrams**
 <img src="assets/container_diagram.jpg" width="450"/>
 
-### **4.3.3. Software Architecture Deployment Diagrams**
+### **4.3.4. Software Architecture Deployment Diagrams**
 
 <img src="assets/deployment_diagram.jpg" width="450"/>
 
 
 # **Anexos**
 **[Repositorio en GitHub](https://github.com/orgs/ezgym/repositories)**
+
+**[Exposición TB1](https://www.youtube.com/playlist?list=PLn6bvdt9Kj2D26oRfJJOz7nokAdfj4F7I)**
