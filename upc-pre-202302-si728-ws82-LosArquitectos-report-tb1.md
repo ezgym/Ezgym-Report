@@ -251,6 +251,13 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 * ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?
 ### **2.2.2. Registro de entrevistas**
 
+**Entrevista 2:** Andrea Liviapoma Mendez
+Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta que sus amigos la motivaron para comenzar a hacer ejercicio en el gimnasio. Menciona  que algunos de los obstáculos que enfrentó fue la gran cantidad de personas que había en el gimnasio en algunos horarios lo que generaba que el ambiente no fuera el adecuado para su entrenamiento disminuyendo así su motivación para entrenar, También menciona que siempre ha tenido buenas experiencias con los entrenadores del gimnasio ya que le brindaron información adecuada y siempre estaban atentos para poderle brindar el apoyo necesario con alguna técnica o la correcta utilización de las máquinas. Por último menciona que  tiene conocimiento de la existencia de aplicaciones que brindan apoyo con los entrenamientos pero que por el momento no utiliza ninguna personalmente sin embargo indica que en un futuro tiene pensado poder utilizar alguna de estas aplicaciones. 
+
+<img src="assets/entrevista_adrian.PNG" width="450"/>
+
+**Link del video:** [Andrea Liviapoma]([https://youtu.be/O38pngQBN7Q](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EV3Ouk87indGizZp4JW7vhcBlKHE8DUffoNF7pcHImSlEA?e=HEJBrm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19))
+
 **Entrevista 5:** David Sanchez
 David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
 
