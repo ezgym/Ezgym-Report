@@ -50,9 +50,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Jose Sebastian Chacon Cordova</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Participe en las reuniones grupales
+              <br>- Colabore dando ideas para el dessarrollo del proyecto
+              <br>- Participe en la exposicion
             </td>
             <td rowspan=5></td>
         </tr>
@@ -99,9 +99,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Jose Sebastian Chacon Cordova</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Desarrolle los C4
+              <br>- Diseñe las entrevistas y solution profile
+              <br>- Comunicacion constante para arreglar o modificar partes del proyecto
             </td>
             <td rowspan=5></td>
         </tr>
