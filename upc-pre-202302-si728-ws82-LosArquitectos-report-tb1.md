@@ -241,6 +241,12 @@ Para el desarrollo de este proyecto consideramos 3 posibles competidores de los 
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
+* EzGym se basa en tecnología de aprendizaje profundo de última generación, lo que garantiza una precisión excepcional en la evaluación de la forma física.
+* Nuestra aplicación se adapta de manera inteligente a las necesidades y preferencias de cada usuario, lo que la hace altamente personalizada y efectiva.
+* La comunidad y la gamificación fomentan la participación activa de los usuarios y la creación de hábitos de ejercicio a largo plazo.
+* La seguridad y la prevención de lesiones son una prioridad, lo que atrae tanto a principiantes como a atletas experimentados.
+
+
 ## **2.2. Entrevistas**
  Como parte del análisis needfinding del proyecto, un paso importante que hay que seguir es la realización de entrevistas a los segmentos objetivos para la captación de necesidades y oportunidad de enfatizar con ellos en busca de la creación de la mejor solución software. A continuación, se presenta la lista de preguntas a realizar a nuestros usuarios
 
