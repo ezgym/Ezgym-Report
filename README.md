@@ -69,9 +69,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Victor Esteban Fajardo Rojas</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Participé de las reuniones grupales
+              <br>- Brinde ideas y feedback respecto a la idea del proyecto
             </td>
         </tr>
         <tr>
@@ -119,9 +118,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Victor Esteban Fajardo Rojas</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Brinde feedback conforme fueron necesarias por dudas en el grupo
+              <br>- Me comunique en la medida de lo posible con los integrantes del grupo
             </td>
         </tr>
         <tr>
