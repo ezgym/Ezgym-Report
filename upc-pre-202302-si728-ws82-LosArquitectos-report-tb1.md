@@ -109,8 +109,10 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 
 ### **4.2.3. Domain Message Flows Modeling**
 <img src="assets/domain_message_flow_diagram.PNG"/>
+
 ### **4.2.4. Bounded Context Canvases**
 <img src="assets/bounded_context_canvas.PNG"/>
+
 ### **4.2.5. Context Mapping**
 
 ## **4.3. Software Architecture**
