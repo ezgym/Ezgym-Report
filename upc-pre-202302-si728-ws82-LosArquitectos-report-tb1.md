@@ -123,6 +123,109 @@ Para el desarrollo de este proyecto consideramos 3 posibles competidores de los 
 
 ### **2.1.1. Análisis competitivo**
 
+<table>
+    <tbody>
+        <tr>           
+            <th colspan=6>Competitive Analysis Landscape</th>
+        </tr>
+        <tr>           
+            <th colspan=6>El análisis realizado fue con el fin de analizar y desarrollar las posibles estrategias de mercado frente a los competidores directos e indirectos. El análisis realizado fue con el fin de analizar y desarrollar las posibles estrategias de mercado frente a los competidores directos e indirectos.</th>
+        </tr>
+        <tr>           
+            <th colspan=6>¿Cómo podemos diferenciarnos de las otras empresas presentes en el mercado del rubro fitness?</th>
+        </tr>
+        <tr>
+            <td colspan=2>" "</td>
+            <td align="center">SmartFit</td>
+            <td align="center">BodyTech</td>
+            <td align="center">RepCount</td>
+            <td align="center">EzGym</td>
+        </tr>
+        <tr>
+            <td>Perfil</td>
+            <td align="center">Overview</td>
+            <td align="center">Cadena de gimnasios que cuenta con precios bastante competitivos y una aplicación para complementar el entrenamiento</td>
+            <td>Cadena de gimnasios “premium” que cuenta con aplicación para complementar el entrenamiento</td>
+            <td align="center">Aplicación que permite generar rutinas y trackear los respectivos entrenamientos</td>
+            <td align="center">Aplicación que permite elegir ciertas rutinas predeterminadas y contar con una guia para realizar los ejercicios de manera correcta gracias a el uso de machine learning</td>
+        </tr>
+        <tr>
+            <td>" "</td>
+            <td align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td align="center">Gran cantidad de sucursales a nivel nacional e internacional</td>
+            <td>Uso de maquinarias y herramientas de mayor calidad</td>
+            <td align="center">Uso de aplicacion movil para trackear entrenamientos</td>
+            <td align="center">Uso de machine learning para complementar el entrenamiento</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Perfil de Marketing</td>
+            <td>Mercado objetivo</td>
+            <td>Deportistas principiantes</td>
+            <td>Deportistas avanzados </td>
+            <td>Deportistas avanzados</td>
+            <td>Deportistas principiantes</td>
+        </tr>
+        <tr>
+            <td>Estrategias de marketing</td>
+            <td>Ofrecen diversas ofertas para suscripción a sus planes</td>
+            <td>Ofrecen diversas ofertas para suscripción a sus planes.</td>
+            <td>Se enfocan en los deportistas avanzados quienes recomiendan la aplicación</td>
+            <td>Enfocarse en los deportistas principiantes los cuales son nuestro mercado objetivo.</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Perfil del producto</td>
+            <td>Productos & Servicios</td>
+            <td>Suscripción a gimnasios</td>
+            <td>Suscripción a gimnasios</td>
+            <td>Aplicación que permite trackear entrenamiento</td>
+            <td>Aplicación que brinda  apoyo durante el entrenamiento</td>
+        </tr>
+        <tr>
+            <td>Precios y Costos</td>
+            <td>Precios dependiendo de la suscripción que elijas (Black o Smart)</td>
+            <td>Precios en base a la cantidad de meses de la suscripción</td>
+            <td>Acceso premium que desbloquea nuevas funcionalidades</td>
+            <td>Acceso premium desbloquea nuevas funcionalidades</td>
+        </tr>
+        <tr>
+            <td>Canales de distribución (Web y/o móvil)</td>
+            <td>Plataforma Web, Presencial</td>
+            <td>Plataforma Web, Presencial</td>
+            <td>App Móvil</td>
+            <td>Plataforma web</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Análisis SWOT</td>
+            <td>Fortalezas</td>
+            <td>Amplia cantidad de sucursales en Lima y provincias</td>
+            <td>Gimnasio considerado por muchos como premium</td>
+            <td>Amplia configurabilidad de los entrenamientos según las necesidad del usuario</td>
+            <td>Uso de machine learning para la correcta ejecución de los ejercicios</td>
+        </tr>
+        <tr>
+            <td>Debilidades</td>
+            <td>No cuentan con la mejor maquinaria del mercado</td>
+            <td>Cuentan con precios más elevados con respecto a sus competidores</td>
+            <td>Complicada de usar para un usuario principiante</td>
+            <td>No es de mucha utilidad para un usuario avanzado</td>
+        </tr>
+        <tr>
+            <td>Oportunidades</td>
+            <td>Mejorar el equipo con el que cuenta los distintos gimnasios</td>
+            <td>Brindar mejores ofertas en los planes de suscripción</td>
+            <td>Brindar rutinas predeterminadas para usuarios principiantes</td>
+            <td>Brindar una amplia variedad de rutinas</td>
+        </tr>
+        <tr>
+            <td>Amenazas</td>
+            <td>Competidores que ofrecen mejores equipos.</td>
+            <td>Competidores que ofrecen precios menores</td>
+            <td>Competidores que ofrecen plataformas más intuitivas</td>
+            <td>Competidores que ofrecen mayor  variedad de entrenamientos y configuración</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
 ## **2.2. Entrevistas**
@@ -156,6 +259,41 @@ David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una em
 **Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
 
 ### **2.2.3. Análisis de entrevistas**
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">Preguntas Especificas</td>
+            <td align="center">Respuestas del Entrevistado</td>
+            <td align="center">Análisis</td>
+        </tr>
+        <tr>
+            <td>1. ¿Cómo te sientes acerca de la forma en que se te ha proporcionado orientación y apoyo en el gimnasio hasta ahora?</td>
+            <td>Consideramos que si bien existe un personal que brinda orientación dentro del gimnasio en muchos casos la información que se nos brinda es bastante básica y general.</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>
+        </tr>
+        <tr>
+            <td>2. ¿Has experimentado algún dolor muscular o incomodidad después de tus entrenamientos? ¿Cómo has lidiado con eso?</td>
+            <td>SI hemos presentado dolor muscular pero esto se debe a el inicio en los entrenamientos y el dolor que se genera luego de entrenar.</td>
+            <td>El entrevistado comenta que si han presentado dolor muscular pero esto es propio del entrenamiento y usualmente pasa luego de unos dias </td>        
+        </tr>
+        <tr>
+            <td>3. ¿Has tenido dificultades para mantener la motivación y la consistencia en tu rutina de ejercicio? ¿Cómo las superaste?</td>
+            <td>.Si presentamos algunas dificultades al principio para mantener la motivación pero gracias a la constancia logramos superar estos inconvenientes</td>
+            <td>Los entrevistados mencionan que si contaban con ciertas dificultades al comenzar su viaje fitness pero que gracias a la consistencia pudieron superar la falta de motivación</td>        
+        </tr>
+        <tr>
+            <td>4. ¿Has considerado utilizar aplicaciones o tecnología para ayudarte en tu entrenamiento? ¿Por qué sí o por qué no?</td>
+            <td>Por el momento no utilizamos aplicaciones para complementar el entrenamiento pero no dudamos que en un futuro podamos utilizarlas.</td>
+            <td>Los entrevistados mencionan que si tienen conocimiento de diversas aplicaciones que brindan apoyo para complementar los entrenamientos pero que por el momento no utilizan ninguna de estas sin embargo no rechazan la posibilidad de utilizar alguna de ellas en un futuro</td>        
+        </tr>
+        <tr>
+            <td>5. ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?</td>
+            <td>Alguna de las metas que buscamos son aumentar masa muscular, bajar de peso y gracias a esto mejorar nuestra calidad de vida</td>
+            <td>El entrevistado demuestra que si bien existe una orientación inicial por parte del personal de los gimnasios a los que acuden esta información es bastante básica y general</td>        
+        </tr>
+    </tbody>
+</table>
 
 ## **2.3. Needfinding**
 Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
