@@ -144,7 +144,7 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 **Entrevista 1:** John Silva Kramer
 
-[<img src="assets/entrevista_jhon.jpg" width="800"/>](https://www.youtube.com/watch?v=QXPJKtuqNX0)
+[<img src="assets/entrevista_jhon.jpg" width="600"/>](https://www.youtube.com/watch?v=QXPJKtuqNX0)
 
 Jhon es un estudiante de ingeniería de software de 22 años, él comenta que la motivación que tuvo para comenzar a hacer ejercicio fue ganar fuerza y verse bien. También mencionó que durante su trayecto tuvo múltiples obstáculos, ya que al ser nuevo no sabia que rutinas tomar o la forma correcta  de hacer los ejercicios. También comentó que la orientación que le dieron en el gym no era la adecuada, ya que para su gusto era bastante básica. También comenta que usa un app llamada “hevy” para mantener un registro de sus rutinas y avances.
 
