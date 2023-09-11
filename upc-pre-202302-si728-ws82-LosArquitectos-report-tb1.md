@@ -382,6 +382,18 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 
 #### **4.1.2.3. Constraints**
 
+| Technical Story ID | Título | Descripción |
+| ------------------ | ------ | ----------- |
+| TS01 | Aplicación móvil en Android y iOS | Como desarrollador quiero que la aplicación móvil sea accedida desde un dispositivo Android y iOS para que los usuarios puedan usarla sin preocuparse del sistema operativo que usan. |
+| TS02 | Aplicación móvil utiliza software de código abierto | Como desarrollador quiero que las tecnologías utilizadas para el desarrollo de la aplicación móvil sea software de código abierto (open source) para que el costo sea el mínimo posible. |
+| TS03 | Base de datos no relacional | Como desarrollador quiero que la base de datos utilizada para la aplicación móvil sea no relacional para aprovechar su funcionalidad. |
+| TS04 | Aplicación móvil utiliza MediaPipe | Como desarrollador quiero que la aplicación móvil utilice MediaPipe para reconocer la postura del usuario. |
+| TS05 | Soporte de usuarios que acceden simultáneamente | Como desarrollador quiero que la aplicación móvil pueda soportar como mínimo 100 usuarios simultáneamente para garantizar el correcto funcionamiento cuando la aplicación sea desplegada. |
+| TS06 | Medio de pagos | Como desarrollador quiero que la aplicación móvil utilice los medios de pagos más utilizados (Débito y crédito) para que los usuarios puedan utilizar la forma de pago que prefieran. |
+| TS07 | Renovación de suscripción automática | Como desarrollador quiero que la suscripción pueda ser renovada automáticamente, a menos que el usuario decida cancelarla antes que termine su suscripción actual, para que pueda utilizar la aplicación sin interrupciones y preocupaciones. |
+
+
+
 ### **4.1.3. Architectural Drivers Backlog**
 
 ### **4.1.4. Architectural Design Decisions**
