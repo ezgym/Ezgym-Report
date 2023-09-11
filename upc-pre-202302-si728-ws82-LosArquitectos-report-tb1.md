@@ -795,6 +795,8 @@ En esta primera entrega del proyecto, contábamos como equipo con una arquitectu
 La finalidad de este cambio es la implementación de la aplicación web y el landing page y en un futuro, el app móvil integrándose con servicios externos, ya que, la complejidad en el desarrollo es el motivo por el cual decidimos el cambio.
 
 ### **4.1.5. Quality Attribute Scenario Refinements**
+La especificación de escenarios basado en los atributos de calidad, recolectados durante el proceso de la investigación, es necesario para la comprensión de nuestra arquitectura y los cambios más relevantes qué se realizarán. 
+<img src="assets/quality.jpg" width="450"/>
 
 ## **4.2. Strategic-Level Domain-Driven Design**
 ### **4.2.1. EventStorming**
