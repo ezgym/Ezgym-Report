@@ -142,3 +142,6 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
         </tr>
     </tbody>
 </table>
+
+# Anexo
+**[Reporte](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb1.md)**
