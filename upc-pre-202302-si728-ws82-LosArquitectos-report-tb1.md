@@ -120,7 +120,7 @@ Cuando las reseñas de nuestros usuarios sean en su mayoría extremadamente posi
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img src="assets/lean_ux.jpg" width="450"/>
+<img src="assets/lean_ux.jpg" width="750"/>
 
 ## **1.3. Segmentos objetivo**
 
