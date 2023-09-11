@@ -19,7 +19,7 @@
 **Team members:**
 * Jose Sebastian Chacon Cordova, u201816406
 * Vanessa Irene Flores Ñahuis, u201816689
-* Victor Esteban Fajardo Rojas, u201------
+* Victor Esteban Fajardo Rojas, u201612009
 * Adrian Fernando Liviapoma Mendez, u20161a096
 * Gerardo Gabriel Caldas Díaz, u201512034
 
