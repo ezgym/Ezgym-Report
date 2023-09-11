@@ -114,6 +114,7 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
 <img src="assets/bounded_context_canvas.PNG"/>
 
 ### **4.2.5. Context Mapping**
+<img src="assets/context_mapping.PNG"/>
 
 ## **4.3. Software Architecture**
 ### **4.3.1. Software Architecture System Landscape Diagram**
