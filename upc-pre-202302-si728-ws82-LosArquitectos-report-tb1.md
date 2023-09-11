@@ -48,7 +48,7 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Nombre:** Gerardo Gabriel Caldas Díaz
 
-<img src="assets/profile_gerardo.jpeg" width="150"/>
+<img src="assets/profile_gerardo.jpg" width="150"/>
 
 **Carrera:** Ingeniería de software
 
