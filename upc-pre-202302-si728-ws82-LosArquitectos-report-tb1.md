@@ -1,3 +1,20 @@
+# **Registro de Versiones**
+<table>
+    <tr>
+        <th>Version</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripcion me modificación</th>
+    </tr>
+    <tr>
+        <th>1.00</th>
+        <th>10/09/2023</th>
+        <th>José Sebastián Chacón Córdova</th>
+        <th>Version inicial</th>
+    </tr>
+</table>
+
+
 # **Capítulo I: Introducción**
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
@@ -782,3 +799,7 @@ Para el context mapping colocamos algunos bounded context definidos previamente.
 ### **4.3.3. Software Architecture Deployment Diagrams**
 
 <img src="assets/deployment_diagram.jpg" width="450"/>
+
+
+# **Anexos**
+**[Repositorio en GitHub](https://github.com/orgs/ezgym/repositories)**
