@@ -796,7 +796,7 @@ La finalidad de este cambio es la implementación de la aplicación web y el lan
 
 ### **4.1.5. Quality Attribute Scenario Refinements**
 La especificación de escenarios basado en los atributos de calidad, recolectados durante el proceso de la investigación, es necesario para la comprensión de nuestra arquitectura y los cambios más relevantes qué se realizarán. 
-<img src="assets/quality.jpg" width="450"/>
+<img src="assets/quality.JPG" width="450"/>
 
 ## **4.2. Strategic-Level Domain-Driven Design**
 ### **4.2.1. EventStorming**
