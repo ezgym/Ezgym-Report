@@ -86,9 +86,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Gerardo Gabriel Caldas Díaz</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Participé en las reuniones de discord.
+              <br>- Participé en la exposición de la TB1.
+              <br>- Comunique todos los puntos a los compañeros del proyecto.
             </td>
         </tr>
         <tr>
@@ -135,9 +135,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Gerardo Gabriel Caldas Díaz</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Desarrollo de entrevista
+              <br>- Comunicación constante con los integrantes del proyecto
+              <br>- Brinde feedback del proyecto
             </td>
         </tr>
     </tbody>
