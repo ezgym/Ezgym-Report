@@ -4,16 +4,50 @@
         <th>Version</th>
         <th>Fecha</th>
         <th>Autor</th>
-        <th>Descripcion me modificación</th>
+        <th>Descripcion de modificación</th>
     </tr>
     <tr>
-        <th>1.00</th>
+        <th>1.0</th>
         <th>10/09/2023</th>
         <th>José Sebastián Chacón Córdova</th>
         <th>Version inicial</th>
     </tr>
+    <tr>
+        <th>1.1</th>
+        <th>10/09/2023</th>
+        <th>Todos</th>
+        <th>Perfiles de integrantes del equipo</th>
+    </tr>
+    <tr>
+        <th>1.2</th>
+        <th>10/09/2023</th>
+        <th>- José Sebastián Chacón Córdova
+        <br>- Vanessa Irene Flores Ñahuis
+        <br>- Gerardo Gabriel Caldas Díaz
+        <br>- Adrian Fernando Liviapoma Mendez
+        </th>
+        <th>Capítulo I: Introducción</th>
+    </tr>
+    <tr>
+        <th>1.3</th>
+        <th>10/09/2023</th>
+        <th>Todos</th>
+        <th>Capítulo II: Requirements Elicitation & Analysis</th>
+    </tr>
+    <tr>
+        <th>1.4</th>
+        <th>10/09/2023</th>
+        <th>- Vanessa Irene Flores Ñahuis
+        <br>- Gerardo Gabriel Caldas Díaz</th>
+        <th>Capítulo III: Requirements Specification</th>
+    </tr>
+    <tr>
+        <th>1.5</th>
+        <th>10/09/2023</th>
+        <th>Todos</th>
+        <th>Capítulo IV: Strategic-Level Software Design</th>
+    </tr>
 </table>
-
 
 # **Capítulo I: Introducción**
 ## **1.1. Startup Profile**
