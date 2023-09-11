@@ -153,7 +153,7 @@ Jhon es un estudiante de ingeniería de software de 22 años, él comenta que la
 
 **Entrevista 3:** Sergio Flores
 
-[<img src="assets/interview_with_sergio.jpg" width="800"/>](https://youtu.be/BDjTYUqqFgU)
+[<img src="assets/interview_with_sergio.jpg" width="600"/>](https://youtu.be/BDjTYUqqFgU)
 
 Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio comenta que su motivación para unirse a un gimnasio fue mantener su peso y un buen estado físico. En un inicio consideró que sería sencillo hacer ejercicio, sin embargo se dio cuenta que cuando se exige demasiado termina con los músculos lastimados y tiene que descansar antes de continuar con los ejercicios. Hasta el momento, Sergio comenta que ha recibido una buena orientación en el gimnasio. La rutina de ejercicio que prefiere se llama “six pack” y ha podido mantener la motivación y consistencia durante la rutina de ejercicios. Sergio comentó que anteriormente utilizaba una aplicación para sus rutinas en casa, pero que después de ir al gimnasio ya no tuvo la necesidad de usarlo, puesto que ahí contaba con un personal que pudiera ayudarlo. Sergio no cuenta con una meta fija, simplemente desea continuar haciendo ejercicio rutinariamente para mantener su físico sin exigirse demasiado.
 
