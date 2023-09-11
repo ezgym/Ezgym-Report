@@ -79,9 +79,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Adrian Fernando Liviapoma Mendez</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Participe en las retroalimentaciones en clase respecto al proyecto
+              <br>- Brinde mis puntos de vista con respecto a la idea del proyecto
+              <br>- Participe en las reuniones grupales tanto en discord como WhatsApp
             </td>
         </tr>
         <tr>
@@ -128,9 +128,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Adrian Fernando Liviapoma Mendez</b>
               <br><b>TB1:</b>
-              <br>- Actividad 1
-              <br>- Actividad 2
-              <br>- Actividad 2
+              <br>- Desarrolle la entrevista correspondiente
+              <br>- Desarrolle la actividad correspondiente al Event Storming
+              <br>- Participe en las reuniones grupales
             </td>
         </tr>
         <tr>
