@@ -22,7 +22,6 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dispuesta a aprender nuevas habilidades y aportaré al equipo y al desarrollo del trabajo con los conocimientos que he adquirido en cursos previos y los conocimientos que adquiriré en este curso.
 
-
 **Nombre:** Adrian Fernando Liviapoma Mendez
 
 <img src="assets/profile_adrian.jpg" width="150"/>
@@ -39,6 +38,13 @@ Ser una startup reconocida a nivel nacional y la primera opción de nuevos perso
 
 **Descripción:** Soy estudiante de la carrera de Ingeniería de Software, actualmente curso el 8vo ciclo. Tengo conocimiento en diversos lenguajes de programación tales como python, C, java y Dart y considero que estos podrán ser de utilidad en el desarrollo de este curso.
 
+**Nombre:** Victor Fajardo Rojas
+
+<img src="assets/profile_victor.jpeg" width="150"/>
+
+**Carrera:** Ingeniería de software
+
+**Descripción:** Soy programador full stack interesado en desarrollo desktop y web con gran interés en la aplicación de nuevas tecnologías como solución a problemas actuales.
 
 ## **1.2. Solution Profile**
 EzGym es una innovadora startup que ha revolucionado la forma en que las personas mejoran su salud y bienestar a través del ejercicio. Nuestra aplicación utiliza tecnologías de vanguardia en aprendizaje profundo (Deep Learning) y Visión artificial (Computer Vision) para verificar la correcta ejecución de rutinas de ejercicio, proporcionando a los usuarios una experiencia de entrenamiento personalizada y efectiva como nunca antes.
@@ -142,9 +148,17 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 * ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?
 ### **2.2.2. Registro de entrevistas**
 
+**Entrevista 5:** David Sanchez
+David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
+
+<img src="assets/entrevista_david.PNG" width="450"/>
+
+**Link del video:** [David Sanchez](https://youtu.be/O38pngQBN7Q)
+
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
+Para poder desarrollar la aplicación es necesario definir un segmento objetivo específico, para lo cual se ha de identificar un user persona, así como las necesidades que este presenta, la forma en cómo se comporta actualmente y realizar una comparación con la forma en como se espera que esto ocurra al usar la aplicación.
 ### **2.3.1. User Personas**
 
 ### **2.3.2. User Task Matrix**
@@ -215,7 +229,7 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 
 # **Capítulo III: Requirements Specification**
 ## **3.1. To-Be Scenario Mapping**
-
+<img src="assets/to_be_mapping.PNG"/>
 ## **3.2. User Stories**
 
 <table>
@@ -327,7 +341,7 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 </table>
 
 ## **3.3. Impact Mapping**
-
+<img src="assets/impact_mapping.PNG"/>
 ## **3.4. Product Backlog**
 
 <table>
@@ -498,10 +512,13 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 <img src="assets/candidate_context.png" width="450"/>
 
 ### **4.2.3. Domain Message Flows Modeling**
+<img src="assets/domain_message_flow_diagram.PNG"/>
 
 ### **4.2.4. Bounded Context Canvases**
+<img src="assets/bounded_context_canvas.PNG"/>
 
 ### **4.2.5. Context Mapping**
+<img src="assets/context_mapping.PNG"/>
 
 ## **4.3. Software Architecture**
 ### **4.3.1. Software Architecture System Landscape Diagram**
@@ -514,4 +531,5 @@ Las historias de usuario más relevantes de nuestra solución de software son bu
 <img src="assets/container_diagram.jpg" width="450"/>
 
 ### **4.3.3. Software Architecture Deployment Diagrams**
+
 <img src="assets/deployment_diagram.jpg" width="450"/>
