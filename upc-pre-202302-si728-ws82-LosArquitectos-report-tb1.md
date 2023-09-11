@@ -142,7 +142,12 @@ Hola buenas (días/tardes/noches), estoy trabajando en una idea de negocio que p
 * ¿Cuáles son tus metas a largo plazo en cuanto a fitness y salud? ¿Cómo planeas alcanzarlas?
 ### **2.2.2. Registro de entrevistas**
 
-**Entrevista 1:**
+**Entrevista 1:** John Silva Kramer
+
+[<img src="assets/entrevista_jhon.jpg" width="800"/>](https://www.youtube.com/watch?v=QXPJKtuqNX0)
+
+Jhon es un estudiante de ingeniería de software de 22 años, él comenta que la motivación que tuvo para comenzar a hacer ejercicio fue ganar fuerza y verse bien. También mencionó que durante su trayecto tuvo múltiples obstáculos, ya que al ser nuevo no sabia que rutinas tomar o la forma correcta  de hacer los ejercicios. También comentó que la orientación que le dieron en el gym no era la adecuada, ya que para su gusto era bastante básica. También comenta que usa un app llamada “hevy” para mantener un registro de sus rutinas y avances.
+
 
 **Entrevista 2:**
 
@@ -230,6 +235,9 @@ Sergio Flores es estudiante de la carrera de Ciencias de la Computación. Sergio
 
 # **Capítulo III: Requirements Specification**
 ## **3.1. To-Be Scenario Mapping**
+
+<img src="assets/to_be_mapping.PNG"/>
+
 
 ## **3.2. User Stories**
 
