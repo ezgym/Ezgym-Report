@@ -256,7 +256,7 @@ Andrea es una estudiante de la carrera de nutrición de 22 años, ella comenta q
 
 <img src="assets/entrevista_adrian.PNG" width="450"/>
 
-**Link del video:** [Andrea Liviapoma]([https://youtu.be/O38pngQBN7Q](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EV3Ouk87indGizZp4JW7vhcBlKHE8DUffoNF7pcHImSlEA?e=HEJBrm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19))
+**Link del video:** [Andrea Liviapoma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EV3Ouk87indGizZp4JW7vhcBlKHE8DUffoNF7pcHImSlEA?e=HEJBrm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Entrevista 5:** David Sanchez
 David Alejandro Sanchez Perez es un ingeniero mecatrónico que trabaja en una empresa alemana especializada en automatización industrial. En el pasado ha ido al gimnasio con el objetivo de bajar de peso y mejorar su apariencia, sin embargo encuentra dificultades debido a que se encuentran llenos y no es posible contar con una persona que supervise tu ejercicio o te oriente. Se desmotiva a continuar por ese motivo, junto con el cansancio del trabajo y la falta de cupo a hora punta.
