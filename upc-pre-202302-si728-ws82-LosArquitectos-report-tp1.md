@@ -960,6 +960,73 @@ Se establecieron las decisiones sobre las pautas de estilo como colors, typograp
 
 ### **6.4.1. Applications Wireframes**
 
+Se propone los siguientes wireframes para la aplicación móvil EzGym, los cuales se realizaron con la herramienta digital Figma siguiendo los elementos de diseños establecidos.
+
+**[Figma: EzGym Application Wireframes](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe?type=design&mode=design&t=qspJ3KZhrnl9OqtT-1)**
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Wireframe</th>
+    </tr>
+    <tr>
+        <td>Inicio de sesión</td>
+        <td><img src="assets/app_inicio_de_sesión.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Registro: Datos personales</td>
+        <td><img src="assets/app_registro_1.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Registro: Suscripción</td>
+        <td><img src="assets/app_registro_2.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Registro: Suscripción - Pago</td>
+        <td><img src="assets/app_registro_3.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Página principal</td>
+        <td><img src="assets/app_pagina_principal.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Filtros de búsqueda</td>
+        <td><img src="assets/app_busqueda_filtros.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Resultados de la búsqueda</td>
+        <td><img src="assets/app_busqueda_resultado.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Sin resultados de la búsqueda</td>
+        <td><img src="assets/app_busqueda_sin_resultado.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Rutinas favoritas</td>
+        <td><img src="assets/app_rutinas_favoritas.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Detalles de la rutina</td>
+        <td><img src="assets/app_detalle_rutina.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Corrección de rutina en vivo</td>
+        <td><img src="assets/app_correccion_de_rutina_en_vivo.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Calificar rutina</td>
+        <td><img src="assets/app_calificar_rutina.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Perfil</td>
+        <td><img src="assets/app_perfil.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Editar perfil</td>
+        <td><img src="assets/app_editar_perfil.png" width="250"/></td>
+    </tr>
+</table>
+
 ### **6.4.2. Applications Wireflow Diagrams**
 
 # **Conclusiones**
