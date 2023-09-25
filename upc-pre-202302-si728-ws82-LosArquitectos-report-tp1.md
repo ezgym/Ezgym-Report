@@ -916,6 +916,28 @@ Para el context mapping colocamos algunos bounded context definidos previamente.
 
 ### **6.1.1. General Style Guidelines**
 
+Se establecieron las decisiones sobre las pautas de estilo como colors, typography (headings y body), iconography, grid_systems, spacing, textfields, selectors y buttons. Estas pautas de estilo se realizaron con la herramienta digital Figma.
+
+**[Figma: Style Guidelines](https://www.figma.com/file/SaLhKBWuJT1rxvBNEwRnOO/Style-guidelines?type=design&node-id=0%3A1&mode=design&t=qspJ3KZhrnl9OqtT-1)**
+
+<img src="assets/style_guideline_colors.png" width="600"/>
+
+<img src="assets/style_guideline_headings.png" width="600"/>
+
+<img src="assets/style_guideline_body.png" width="600"/>
+
+<img src="assets/style_guideline_iconography.png" width="600"/>
+
+<img src="assets/style_guideline_grid_systems.png" width="600"/>
+
+<img src="assets/style_guideline_spacing.png" width="600"/>
+
+<img src="assets/style_guideline_textfields.png" width="600"/>
+
+<img src="assets/style_guideline_selectors.png" width="600"/>
+
+<img src="assets/style_guideline_buttons.png" width="600"/>
+
 ### **6.1.2. Web, Mobile & Devices Style Guidelines**
 
 ## **6.2. Information Architecture**
