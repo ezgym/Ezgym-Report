@@ -53,9 +53,16 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Participe en las reuniones grupales
               <br>- Colabore dando ideas para el dessarrollo del proyecto
               <br>- Participe en la exposicion
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
             <td rowspan=5>
-                La comunicación establecida para el desarrollo del proyecto por parte del equipo es muy efectiva. Esto debido a que usando la metodología agile y el framework de Scrum, se ha logrado que las reuniones se                 realicen a tiempo sin ningún contratiempo. 
+              <b>TB1:</b>
+              <br>La comunicación establecida para el desarrollo del proyecto por parte del equipo es muy efectiva. Esto debido a que usando la metodología agile y el framework de Scrum, se ha logrado que las reuniones se                 realicen a tiempo sin ningún contratiempo. 
+              <br><b>TP1:</b>
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -65,6 +72,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Participé en las reuniones de discord.
               <br>- Participé en la exposición del TB1.
               <br>- Comuniqué oralmente mis sugerencias.
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -73,6 +84,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB1:</b>
               <br>- Participé de las reuniones grupales
               <br>- Brinde ideas y feedback respecto a la idea del proyecto
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -82,6 +97,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Participe en las retroalimentaciones en clase respecto al proyecto
               <br>- Brinde mis puntos de vista con respecto a la idea del proyecto
               <br>- Participe en las reuniones grupales tanto en discord como WhatsApp
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -91,6 +110,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Participé en las reuniones de discord.
               <br>- Participé en la exposición de la TB1.
               <br>- Comunique todos los puntos a los compañeros del proyecto.
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -104,8 +127,18 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Desarrolle los C4
               <br>- Diseñe las entrevistas y solution profile
               <br>- Comunicacion constante para arreglar o modificar partes del proyecto
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
-            <td rowspan=5>Al realizar un trabajo en MD el cual puede ser modificado y visto por todos los miembros del grupo favorece a que se puedan corregir los errores entre todos y de esta manera tener una                             mejor presentación al momento de realizar el envío. </td>
+            <td rowspan=5>
+            <br>
+              <b>TB1:</b>
+              <br>Al realizar un trabajo en MD el cual puede ser modificado y visto por todos los miembros del grupo favorece a que se puedan corregir los errores entre todos y de esta manera tener una                             mejor presentación al momento de realizar el envío.
+              <br><b>TP1:</b>
+              <br>- 
+            </td>
         </tr>
         <tr>
             <td>
@@ -114,6 +147,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Mantuve comunicación escrita mediante Discord y 
               <br>WhatsApp con los demás miembros del equipo.
               <br>- Comuniqué mis sugerencias.
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -122,6 +159,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB1:</b>
               <br>- Brinde feedback conforme fueron necesarias por dudas en el grupo
               <br>- Me comunique en la medida de lo posible con los integrantes del grupo
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -131,6 +172,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Desarrolle la entrevista correspondiente
               <br>- Desarrolle la actividad correspondiente al Event Storming
               <br>- Participe en las reuniones grupales
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
         <tr>
@@ -140,10 +185,16 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Desarrollo de entrevista
               <br>- Comunicación constante con los integrantes del proyecto
               <br>- Brinde feedback del proyecto
+              <br><b>TP1:</b>
+              <br>- 
+              <br>- 
+              <br>- 
             </td>
         </tr>
     </tbody>
 </table>
 
 # Anexo
-**[Reporte](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb1.md)**
+**[Reporte TB1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb1.md)**
+
+**[Reporte TP1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tp1.md)**
