@@ -960,7 +960,7 @@ Se establecieron las decisiones sobre las pautas de estilo como colors, typograp
 
 ### **6.4.1. Applications Wireframes**
 
-Se propone los siguientes wireframes para la aplicación móvil EzGym, los cuales se realizaron con la herramienta digital Figma siguiendo los elementos de diseños establecidos.
+Se propone los siguientes wireframes para la aplicación móvil EzGym. Se realizaron un total de 25 wireframes con la herramienta digital Figma siguiendo los elementos de diseños establecidos.
 
 **[Figma: EzGym Application Wireframes](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe?type=design&mode=design&t=qspJ3KZhrnl9OqtT-1)**
 
@@ -974,16 +974,32 @@ Se propone los siguientes wireframes para la aplicación móvil EzGym, los cuale
         <td><img src="assets/app_inicio_de_sesión.png" width="250"/></td>
     </tr>
     <tr>
+        <td>Inicio de sesión - Campo obligatorio</td>
+        <td><img src="assets/app_inicio_de_sesion_campo_obligatorio.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Inicio de sesión - Correo electrónico o contraseña incorrecta</td>
+        <td><img src="assets/app_inicio_de_sesion_correo_o_contraseña_incorrecta.png" width="250"/></td>
+    </tr>
+    <tr>
         <td>Registro: Datos personales</td>
         <td><img src="assets/app_registro_1.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Registro: Datos personales - Campo obligatorio</td>
+        <td><img src="assets/app_registro_1_campo_obligatorio.png" width="250"/></td>
     </tr>
     <tr>
         <td>Registro: Suscripción</td>
         <td><img src="assets/app_registro_2.png" width="250"/></td>
     </tr>
     <tr>
-        <td>Registro: Suscripción - Pago</td>
+        <td>Registro: Pago</td>
         <td><img src="assets/app_registro_3.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Registro: Pago - Campo obligatorio</td>
+        <td><img src="assets/app_registro_3_campo obligatorio.png" width="250"/></td>
     </tr>
     <tr>
         <td>Página principal</td>
@@ -1006,16 +1022,44 @@ Se propone los siguientes wireframes para la aplicación móvil EzGym, los cuale
         <td><img src="assets/app_rutinas_favoritas.png" width="250"/></td>
     </tr>
     <tr>
-        <td>Detalles de la rutina</td>
+        <td>Detalles de rutina</td>
         <td><img src="assets/app_detalle_rutina.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Detalles de rutina favorita</td>
+        <td><img src="assets/app_detalle_de_rutina_favorita.png" width="250"/></td>
     </tr>
     <tr>
         <td>Corrección de rutina en vivo</td>
         <td><img src="assets/app_correccion_de_rutina_en_vivo.png" width="250"/></td>
     </tr>
     <tr>
+        <td>Vista previa de ejercicio de rutina</td>
+        <td><img src="assets/app_vista_previa_del_ejercicio.png" width="250"/></td>
+    </tr>
+    <tr>
         <td>Calificar rutina</td>
         <td><img src="assets/app_calificar_rutina.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Rutina calificada: Mensaje emergente</td>
+        <td><img src="assets/app_rutina_calificada_1.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Rutina calificada</td>
+        <td><img src="assets/app_rutina_calificada_2.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Calificar rutina favorita</td>
+        <td><img src="assets/app_calificar_rutina_favorita.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Rutina favorita calificada: Mensaje emergente</td>
+        <td><img src="assets/app_rutina_favorita_calificada_1.png" width="250"/></td>
+    </tr>
+    <tr>
+        <td>Rutina favorita calificada</td>
+        <td><img src="assets/app_rutina_favorita_calificada_2.png" width="250"/></td>
     </tr>
     <tr>
         <td>Perfil</td>
