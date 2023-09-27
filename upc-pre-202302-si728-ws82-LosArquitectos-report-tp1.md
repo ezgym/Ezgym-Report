@@ -47,6 +47,21 @@
         <th>Todos</th>
         <th>Capítulo IV: Strategic-Level Software Design</th>
     </tr>
+    <tr>
+        <th>2.1</th>
+        <th>--/09/2023</th>
+        <th>- Adrian Fernando Liviapoma Mendez
+        <br>- Victor Esteban Fajardo Rojas</th>
+        <th>Capítulo V: Tactical-Level Software Design</th>
+    </tr>
+    <tr>
+        <th>2.2</th>
+        <th>--/09/2023</th>
+        <th>- Vanessa Irene Flores Ñahuis
+        <br>- José Sebastián Chacón Córdova
+        <br>- Gerardo Gabriel Caldas Díaz</th>
+        <th>Capítulo VI: Solution UX Design</th>
+    </tr>
 </table>
 
 # **Capítulo I: Introducción**
@@ -952,9 +967,20 @@ Se establecieron las decisiones sobre las pautas de estilo como colors, typograp
 
 ## **6.3. Landing Page UI Design**
 
+
+A continuación, se mostrarán los wireframes y mockups del landing page. Para el diseño de estos, priorizamos una estética minimalista y una interfaz simple de usar y limpia. Nuestro enfoque ha sido crear una experiencia fluida y atractiva para los visitantes del sitio, manteniendo la información esencial al alcance de un clic y asegurando que la navegación sea intuitiva y eficiente. Los wireframes y mockups reflejan nuestro compromiso con la claridad y la elegancia en el diseño, con la intención de brindar a los usuarios una experiencia agradable y sin complicaciones.
+
 ### **6.3.1. Landing Page Wireframe**
+A continuacion se mostrara el wireframe de la landing page.
+<img src="assets/Wireframe_landing.png" width="600px"/>
+
+**[Figma: EzGym Landing Page Wireframe](https://www.figma.com/file/7Q9UUvU0qqMWTgeGd3eUyY/Landing-Wireframe?type=design&node-id=0%3A1&mode=design&t=DXsVajnTjbkqF4E1-1)**
 
 ### **6.3.2. Landing Page Mock-up**
+A continuacion se mostrara el mockup de la landing page.
+<img src="assets/landing_mock.png" width="600px"/>
+
+**[Figma: EzGym Landing Page Mockup](https://www.figma.com/file/s37bUxrPBWGJlzkXnu7EFP/Landing-Mock?type=design&mode=design&t=DXsVajnTjbkqF4E1-1)**
 
 ## **6.4. Applications UX/UI Design**
 
