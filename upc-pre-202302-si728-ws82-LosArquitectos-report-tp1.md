@@ -1073,6 +1073,24 @@ Se propone los siguientes wireframes para la aplicación móvil EzGym. Se realiz
 
 ### **6.4.2. Applications Wireflow Diagrams**
 
+Se realizaron los application wireflow diagrams correspondientes a los user goals: iniciar sesión, registrarse, buscar rutinas, filtrar búsqueda de rutinas, agregar rutinas a favoritos, visualizar rutinas favoritas, calificar rutina y activar corrección de rutina en vivo.
+
+<img src="assets/wireflow_iniciar_sesion.jpg"/>
+
+<img src="assets/wireflow_registrarse.jpg"/>
+
+<img src="assets/wireflow_buscar_rutinas.jpg"/>
+
+<img src="assets/wireflow_filtrar_busqueda_rutinas.jpg"/>
+
+<img src="assets/wireflow_agregar_rutina_a_favoritos.jpg"/>
+
+<img src="assets/wireflow_visualizar_rutinas_favoritas.jpg"/>
+
+<img src="assets/wireflow_calificar_rutina.jpg"/>
+
+<img src="assets/wireflow_activar_correccion_rutina.jpg"/>
+
 # **Conclusiones**
 
 # **Bibliografía**
