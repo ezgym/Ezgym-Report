@@ -83,10 +83,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB1:</b>
               <br>- Participé de las reuniones grupales
               <br>- Brinde ideas y feedback respecto a la idea del proyecto
+              <br>- Participé durante la grabación de la exposición
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- articipé de las reuniones grupales
+              <br>- Brinde ideas y feedback respecto a la idea del proyecto
             </td>
         </tr>
         <tr>
@@ -157,9 +157,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Brinde feedback conforme fueron necesarias por dudas en el grupo
               <br>- Me comunique en la medida de lo posible con los integrantes del grupo
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- Brinde feedback conforme fueron necesarias por dudas en el grupo
+              <br>- Me comunique en la medida de lo posible con los integrantes del grupo
             </td>
         </tr>
         <tr>
