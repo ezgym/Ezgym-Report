@@ -110,9 +110,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Participé en la exposición de la TB1.
               <br>- Comunique todos los puntos a los compañeros del proyecto.
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- Brinde y propuse ideas de mejora del proyecto.
+              <br>- Participé en las reuniones grupales para el avance del tp.
             </td>
         </tr>
         <tr>
@@ -182,9 +181,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>- Comunicación constante con los integrantes del proyecto
               <br>- Brinde feedback del proyecto
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- Desarrolle las tareas asignadas a tiempo.
+              <br>- Me comunique y consulte las dudas que tuve con mis compañeros del equipo.
+              <br>- Brinde ideas de apoyo para mejoras.
             </td>
         </tr>
     </tbody>

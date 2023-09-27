@@ -49,14 +49,14 @@
     </tr>
     <tr>
         <th>2.1</th>
-        <th>--/09/2023</th>
+        <th>25/09/2023</th>
         <th>- Adrian Fernando Liviapoma Mendez
         <br>- Victor Esteban Fajardo Rojas</th>
         <th>Capítulo V: Tactical-Level Software Design</th>
     </tr>
     <tr>
         <th>2.2</th>
-        <th>--/09/2023</th>
+        <th>25/09/2023</th>
         <th>- Vanessa Irene Flores Ñahuis
         <br>- José Sebastián Chacón Córdova
         <br>- Gerardo Gabriel Caldas Díaz</th>
