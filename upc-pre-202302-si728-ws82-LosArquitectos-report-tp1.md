@@ -968,11 +968,19 @@ Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 ### **5.3.1. Domain Layer**
 
+<img src="assets/User_Domain_Layer.PNG" width="450"/>
+
 ### **5.3.2. Interface Layer**
+
+<img src="assets/User_Interface_Layer.PNG" width="450"/>
 
 ### **5.3.3. Application Layer**
 
+<img src="assets/Kernel.PNG" width="450"/>
+
 ### **5.3.4. Infrastructure Layer**
+
+Se implementará el patrón Repository para las entidades: Usre, profileUser y Routine
 
 ### **5.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
@@ -980,17 +988,29 @@ Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 #### **5.3.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<img src="assets/AuthContext.PNG" width="450"/>
+
 #### **5.3.6.2. Bounded Context Database Design Diagram**
+
+<img src="assets/WorkoutDB.PNG" width="450"/>
 
 ## **5.4. Bounded Context: Pose Estimation Bounded Context**
 
 ### **5.4.1. Domain Layer**
 
+<img src="assets/Pose_Domain_Layer.PNG" width="450"/>
+
 ### **5.4.2. Interface Layer**
+
+<img src="assets/Pose_Interface_Layer.PNG" width="450"/>
 
 ### **5.4.3. Application Layer**
 
+<img src="assets/Kernel.PNG" width="450"/>
+
 ### **5.4.4. Infrastructure Layer**
+
+Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 ### **5.4.5. Bounded Context Software Architecture Component Level Diagrams**
 
@@ -998,7 +1018,11 @@ Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 #### **5.4.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<img src="assets/WorkoutContext.PNG" width="450"/>
+
 #### **5.4.6.2. Bounded Context Database Design Diagram**
+
+<img src="assets/WorkoutDB.PNG" width="450"/>
 
 # **Capítulo VI: Solution UX Design**
 
