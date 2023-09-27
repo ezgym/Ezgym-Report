@@ -69,13 +69,12 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Vanessa Irene Flores Ñahuis</b>
               <br><b>TB1:</b>
-              <br>- Participé en las reuniones de discord.
+              <br>- Participé en las reuniones de Discord.
               <br>- Participé en la exposición del TB1.
               <br>- Comuniqué oralmente mis sugerencias.
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- Participé en las reuniones programadas en Discord.
+              <br>- Propuse sugerencias con respecto al desarrollo del trabajo.
             </td>
         </tr>
         <tr>
@@ -144,13 +143,11 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
             <td>
               <b>Vanessa Irene Flores Ñahuis</b>
               <br><b>TB1:</b>
-              <br>- Mantuve comunicación escrita mediante Discord y 
-              <br>WhatsApp con los demás miembros del equipo.
+              <br>- Mantuve comunicación escrita mediante Discord y WhatsApp con los demás miembros del equipo.
               <br>- Comuniqué mis sugerencias.
               <br><b>TP1:</b>
-              <br>- 
-              <br>- 
-              <br>- 
+              <br>- Mantuve comunicación constante mediante Discord y WhatsApp con los miembros del equipo.
+              <br>- Plantee sugerencias y las comuniqué a los miembros del equipo.
             </td>
         </tr>
         <tr>
