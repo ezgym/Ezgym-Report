@@ -857,37 +857,61 @@ Para el context mapping colocamos algunos bounded context definidos previamente.
 
 ### **5.1.1. Domain Layer**
 
+<img src="assets/AuthContext.PNG" width="450"/>
+
 ### **5.1.2. Interface Layer**
 
+Se realizarán controllers para las entidades User y ProfileUser.
+
 ### **5.1.3. Application Layer**
+
+<img src="assets/Kernel.PNG" width="450"/>
 
 ### **5.1.4. Infrastructure Layer**
 
 ### **5.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<img src="assets/AuthComponent.PNG" width="450"/>
+
 ### **5.1.6. Bounded Context Software Architecture Code Level Diagrams**
 
 #### **5.1.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<img src="assets/AuthContext.PNG" width="450"/>
+
 #### **5.1.6.2. Bounded Context Database Design Diagram**
+
+<img src="assets/AuthDB.PNG" width="450"/>
 
 ## **5.2. Bounded Context: Workout Bounded Context**
 
 ### **5.2.1. Domain Layer**
 
+<img src="assets/WorkoutContext.PNG" width="450"/>
+
 ### **5.2.2. Interface Layer**
 
+Se realizarán controllers para las entidades Routine y Exercise.
+
 ### **5.2.3. Application Layer**
+
+<img src="assets/Kernel.PNG" width="450"/>
 
 ### **5.2.4. Infrastructure Layer**
 
 ### **5.2.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<img src="assets/WorkoutComponent.PNG" width="450"/>
+
 ### **5.2.6. Bounded Context Software Architecture Code Level Diagrams**
 
 #### **5.2.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<img src="assets/WorkoutContext.PNG" width="450"/>
+
 #### **5.2.6.2. Bounded Context Database Design Diagram**
+
+<img src="assets/WorkoutDB.PNG" width="450"/>
 
 ## **5.3. Bounded Context: User Bounded Context**
 
