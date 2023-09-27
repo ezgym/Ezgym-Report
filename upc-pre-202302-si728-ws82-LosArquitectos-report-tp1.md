@@ -869,6 +869,8 @@ Se realizarán controllers para las entidades User y ProfileUser.
 
 ### **5.1.4. Infrastructure Layer**
 
+Se implementará el patrón Repository para las entidades: User y profileUser.
+
 ### **5.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
 <img src="assets/AuthComponent.PNG" width="450"/>
@@ -898,6 +900,8 @@ Se realizarán controllers para las entidades Routine y Exercise.
 <img src="assets/Kernel.PNG" width="450"/>
 
 ### **5.2.4. Infrastructure Layer**
+
+Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 ### **5.2.5. Bounded Context Software Architecture Component Level Diagrams**
 
