@@ -1054,6 +1054,21 @@ Se establecieron las decisiones sobre las pautas de estilo como colors, typograp
 
 ### **6.1.2. Web, Mobile & Devices Style Guidelines**
 
+Nuestra decisión de utilizar una paleta de colores compuesta por prussian blue, tomato, ghost white y black no fue tomada al azar; más bien, fue el resultado de una cuidadosa consideración de los valores y la personalidad que deseamos transmitir a nuestros usuarios.
+
+Prussian Blue color: El color prussian blue se asocia comúnmente con la confianza, la calma y la estabilidad. Al incorporarlo en nuestra paleta, queremos que nuestros usuarios sientan que están en un entorno seguro y confiable mientras usan nuestra plataforma. Además, el azul también se asocia con la seriedad y la profesionalidad, lo que refleja nuestro compromiso con la calidad en todo lo que hacemos.
+
+Tomato color: El rojo es un color enérgico y apasionado que llama la atención. Al incluirlo en nuestra paleta, buscamos transmitir una sensación de vitalidad y emoción. Queremos que nuestros usuarios se sientan inspirados y motivados al usar nuestra plataforma, como si estuvieran recibiendo un impulso de energía adicional para alcanzar sus metas de fitness.
+
+Ghost white: El ghost white es un color que simboliza la pureza y la claridad. Lo utilizamos para equilibrar la energía del prussian blue y el tomato, creando un ambiente limpio y fresco. Esto también refleja nuestra atención al detalle y nuestro deseo de proporcionar una experiencia de usuario fácil de usar y libre de distracciones innecesarias.
+
+Black: El negro agrega un toque de sofisticación y elegancia a nuestra paleta de colores. Representa la autoridad y la seguridad, lo que refuerza aún más la confiabilidad de nuestra plataforma.
+
+La elección del estilo Material Design y la fuente Roboto también se alinea con nuestra visión de transmitir una imagen energética y juvenil. Material Design es conocido por su apariencia moderna y su enfoque en la usabilidad, lo que lo hace perfecto para una aplicación centrada en la experiencia del usuario. La fuente Roboto es legible y versátil, lo que garantiza que la información en nuestra aplicación sea fácil de leer y atractiva visualmente.
+
+En conjunto, nuestra paleta de colores y elección de estilo de diseño buscan crear una experiencia emocionante y confiable para nuestros usuarios, que los motive a embarcarse en su viaje de fitness con entusiasmo y confianza en nuestros servicios.
+
+
 ## **6.2. Information Architecture**
 
 ### **6.2.1. Labeling Systems**
