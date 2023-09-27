@@ -810,8 +810,55 @@ En esta primera entrega del proyecto, contábamos como equipo con una arquitectu
 La finalidad de este cambio es la implementación de la aplicación web y el landing page y en un futuro, el app móvil integrándose con servicios externos, ya que, la complejidad en el desarrollo es el motivo por el cual decidimos el cambio.
 
 ### **4.1.5. Quality Attribute Scenario Refinements**
+
 La especificación de escenarios basado en los atributos de calidad, recolectados durante el proceso de la investigación, es necesario para la comprensión de nuestra arquitectura y los cambios más relevantes qué se realizarán. 
-<img src="assets/quality.JPG" width="450"/>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=3>Scenario Refinement for Scenario</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2>Scenario(s)</th>
+            <td>El usuario ingresa a la lista de rutinas</td>
+        </tr>
+        <tr>
+            <td colspan=2>Business Goals</th>
+            <td>Mejorar la postura de los ejercicios realizados</td>
+        </tr>
+        <tr>
+            <td colspan=2>Relevant Quality Attributes</th>
+            <td>Usabilidad, Desempeño, Interoperabilidad</td>
+        </tr>
+        <tr>
+            <td rowspan=4>Scenario Components</th>
+            <td>Stimulus</td>
+            <td>El usuario ingresa a la cámara de la aplicación</td>
+        </tr>
+        <tr>
+            <td>Stimulus Source</td>
+            <td>El interés del usuario</td>
+        </tr>
+        <tr>
+            <td>Response</td>
+            <td>Se muestra la correcta aplicación de los ejercicios</td>
+        </tr>
+        <tr>
+            <td>Response Measure</td>
+            <td>5 segundos</td>
+        </tr>
+        <tr>
+            <td colspan=2>Questions</th>
+            <td>¿La muestra de este ejercicio debería integrarse con algún dispositivo móvil?</td>
+        </tr>
+        <tr>
+            <td colspan=2>Issues</th>
+            <td>Es necesario contar con un dispositivo de regular calidad.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## **4.2. Strategic-Level Domain-Driven Design**
 ### **4.2.1. EventStorming**
@@ -987,11 +1034,132 @@ Se establecieron las decisiones sobre las pautas de estilo como colors, typograp
 
 ### **6.2.1. Labeling Systems**
 
+Para el usuario, presentamos la representación de los datos de la manera más simple y sencilla sin buscar o complicar a este ya mencionado anteriormente.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>Nombre</th>
+            <th rowspan=2>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Registrarse</td>
+            <td align="center">Describe la acción de crear una cuenta para el perfil del usuario.</td>
+        </tr>
+        <tr>
+            <td>Iniciar Sesión</td>
+            <td align="center">Describe la acción de iniciar sesión con el correo registrado.</td>
+        </tr>
+        <tr>
+            <td>Cerrar Sesión</td>
+            <td align="center">Describe la acción de poder cerrar la sesión con el usuario.</td>
+        </tr>
+        <tr>
+            <td>Buscar Rutina</td>
+            <td align="center">Describe la acción de poder buscar las rutinas preparadas.</td>
+        </tr>
+        <tr>
+            <td>Visualizar</td>
+            <td align="center">Describe la acción de visualizar la rutina elegida.</td>
+        </tr>
+        <tr>
+            <td>Retornar</td>
+            <td align="center">Describe la acción que detendrá el proceso y regresará a la anterior vista.</td>
+        </tr>
+        <tr>
+            <td>Adquirir Plan</td>
+            <td align="center">Describe la acción de realizar el pago por el plan seleccionado.</td>
+        </tr>
+        <tr>
+            <td>Agregar</td>
+            <td align="center">Describe la acción de agregar la rutina a la lista de rutinas creadas por el usuario.</td>
+        </tr>
+        <tr>
+            <td>Eliminar</td>
+            <td align="center">Describe la acción de eliminar la rutina de la lista de rutinas creadas por el usuario.</td>
+        </tr>
+        <tr>
+            <td>Calificar</td>
+            <td align="center">Describe la acción de calificar la rutina seleccionada.</td>
+        </tr>
+        <tr>
+            <td>Activar Supervisión</td>
+            <td align="center">Describe la acción de escanear la posición del usuario y analizarla.</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **6.2.2. Searching Systems**
+
+Para el usuario, la plataforma le permitirá buscar las rutinas que mejor se le acomoden a sus necesidades a través de una barra de navegación, el cual le pedirá que inserte algún texto para qué luego de realizar esta acción, se visualicen todas las rutinas que se pudieron encontrar según la base de datos. Dentro de la ventana resultados, el usuario podrá filtrar las rutinas a través de categorías específicas.
 
 ### **6.2.3. SEO Tags and Meta Tags**
 
+Para el Landing Page
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>Etiqueta</th>
+            <th rowspan=2>Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Titulo</td>
+            <td align="center">EzGym - Más ayuda, imposible</td>
+        </tr>
+        <tr>
+            <td>Descripción META</td>
+            <td align="center">EzGym, Sitio web de mejora de ejercicios en Perú</td>
+        </tr>
+        <tr>
+            <td>Palabras clave</td>
+            <td align="center">Rutinas, Ejercicios, Entrenamiento</td>
+        </tr>
+        <tr>
+            <td>Autor</td>
+            <td align="center">Los Arquitectos</td>
+        </tr>
+    </tbody>
+</table>
+
+Para la Aplicación Web
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2>Etiqueta</th>
+            <th rowspan=2>Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Titulo</td>
+            <td align="center">EzGym - Más ayuda, imposible</td>
+        </tr>
+        <tr>
+            <td>Subtítulo</td>
+            <td align="center">EzGym, Sitio web de mejora de ejercicios en Perú</td>
+        </tr>
+        <tr>
+            <td>Palabras clave</td>
+            <td align="center">Rutinas, Ejercicios, Entrenamiento</td>
+        </tr>
+        <tr>
+            <td>Descripción</td>
+            <td align="center">EzGym es una plataforma que busca apoyar a los que recién se encuentran iniciando en el mundo del gimnasio y por x motivos se le complica. En base a esto, esta plataforma verifica la correcta ejecución de las rutinas de ejercicio, muy aparte de brindarte rutinas preparadas y listas para practicarlas.</td>
+        </tr>
+    </tbody>
+</table>
+
 ### **6.2.4. Navigation Systems**
+
+Para el usuario, dentro del landing page, los elementos visuales serán de personas entrenando tanto en el gimnasio como en casa con su celular o laptop dentro de la plataforma. Estos elementos buscarán captar la atención del usuario para poder redirigirlos a la plataforma donde a través de una ventana de registro podrán crear su cuenta.
+
+Dentro de la plataforma, en la pantalla de inicio, el usuario tendrá acceso a las rutinas guardadas, a visualizar los planes y beneficios que le ofrecen, algunas rutinas recomendadas y mejor calificadas, una barra de navegación donde podrán realizar alguna rutina específica. Una vez seleccionada la rutina, se desplegarán los detalles como adicionar, eliminar y por último activar la supervisión.
 
 ## **6.3. Landing Page UI Design**
 
