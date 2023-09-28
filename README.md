@@ -99,7 +99,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Realice los diagramas correspondientes a los Bounded Context :Auth y Workout
               <br>- Comunique mis ideas con el grupo durante las reuniones planteadas
-              <br>- 
+              <br
             </td>
         </tr>
         <tr>
@@ -170,7 +170,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en las reuniones del grupo planteadas
               <br>- Realice las actividades que se me fueron asignadas en el tiempo correspondiente
-              <br>- 
+              <br>
             </td>
         </tr>
         <tr>
