@@ -56,13 +56,12 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en las reuniones semanales en el discord
               <br>- Colabore dando feedback e insight
-              <br>- 
             </td>
             <td rowspan=5>
               <b>TB1:</b>
               <br>La comunicación establecida para el desarrollo del proyecto por parte del equipo es muy efectiva. Esto debido a que usando la metodología agile y el framework de Scrum, se ha logrado que las reuniones se                 realicen a tiempo sin ningún contratiempo. 
               <br><b>TP1:</b>
-              <br>- La comunicacion entre los integrantes del grupo fue fluida y efectiva, logramos cumplir los objetivos y organizar las entregas en el tiempo establecido.
+              <br>La comunicacion entre los integrantes del grupo fue fluida y efectiva, logramos cumplir los objetivos y organizar las entregas en el tiempo establecido.
             </td>
         </tr>
         <tr>
@@ -99,7 +98,6 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Realice los diagramas correspondientes a los Bounded Context :Auth y Workout
               <br>- Comunique mis ideas con el grupo durante las reuniones planteadas
-              <br
             </td>
         </tr>
         <tr>
@@ -128,14 +126,13 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en el planteamiento de la parte estetica del app
               <br>- Desarrolle el mockup y wireframe del landing page
-              <br>- 
             </td>
             <td rowspan=5>
             <br>
               <b>TB1:</b>
               <br>Al realizar un trabajo en MD el cual puede ser modificado y visto por todos los miembros del grupo favorece a que se puedan corregir los errores entre todos y de esta manera tener una                             mejor presentación al momento de realizar el envío.
               <br><b>TP1:</b>
-              <br>- Es importante mantener comunicacion constante con el resto del equipo con el fin de brindar opiniones y feedback sobre el desarrollo.
+              <br>Es importante mantener comunicacion constante con el resto del equipo con el fin de brindar opiniones y feedback sobre el desarrollo.
             </td>
         </tr>
         <tr>
