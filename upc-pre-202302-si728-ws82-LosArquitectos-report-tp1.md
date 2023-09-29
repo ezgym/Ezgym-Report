@@ -1354,8 +1354,25 @@ Se realizaron los application wireflow diagrams correspondientes a los user goal
 
 # **Conclusiones**
 
+* Se debe tener en consideración los requerimientos tanto funcionales como no 
+funcionales al momento de desarrollar la aplicación web, dependiendo de cada 
+usuario, ya que serán ellos los que la utilicen para cumplir con estas necesidades 
+previamente identificadas.
+* La metodología de trabajo ágil Scrum nos ha resultado de gran ayuda, ya que nos 
+sirve para tener una mejor comunicación, estando todos sincronizados y 
+aportando diferentes ideas para la realización del proyecto.
+
+
 # **Bibliografía**
 
+* Fanguy, W. (2020). What Is Color Theory? Meaning & Fundamentals. Recuperado de https://xd.adobe.com/ideas/process/ui-design/what-is-color-theory/ 
+
+* Jake Mendel. (2018). Seriously, whats your (startup's) problem?,Recuperado de Medium Sitio web: https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4
+
+* Prograssa Lean. (2014). 5W+2H Técnica de análisis de problemas. setiembre 12, 2021, de Prograssa Lean  Sitio web: https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+  
+* Jeff Gothelf. (2010). Chapter 3. En Lean UX(pp.1-39). O'Reilly: Eric Ries, Series Editor
+  
 # **Anexos**
 **[Repositorio en GitHub](https://github.com/orgs/ezgym/repositories)**
 
