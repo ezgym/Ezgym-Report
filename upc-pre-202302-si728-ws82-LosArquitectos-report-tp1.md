@@ -984,6 +984,8 @@ Se implementará el patrón Repository para las entidades: Usre, profileUser y R
 
 ### **5.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<img src="assets/User_Component_Diagram.PNG" width="450"/>
+
 ### **5.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
 #### **5.3.6.1. Bounded Context Domain Layer Class Diagrams**
@@ -1013,6 +1015,8 @@ Se implementará el patrón Repository para las entidades: Usre, profileUser y R
 Se implementará el patrón Repository para las entidades: Routine y Exercise.
 
 ### **5.4.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<img src="assets/Pose_Component_Diagram.PNG" width="450"/>
 
 ### **5.4.6. Bounded Context Software Architecture Code Level Diagrams**
 
