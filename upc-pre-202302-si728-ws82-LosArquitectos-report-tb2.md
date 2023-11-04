@@ -1229,112 +1229,31 @@ Se propone los siguientes wireframes para la aplicación móvil EzGym. Se realiz
 
 **[Figma: EzGym Application Wireframes](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe?type=design&mode=design&t=qspJ3KZhrnl9OqtT-1)**
 
-<table>
-    <tr>
-        <th>Nombre</th>
-        <th>Wireframe</th>
-    </tr>
-    <tr>
-        <td>Inicio de sesión</td>
-        <td><img src="assets/app_inicio_de_sesión.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Inicio de sesión - Campo obligatorio</td>
-        <td><img src="assets/app_inicio_de_sesion_campo_obligatorio.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Inicio de sesión - Correo electrónico o contraseña incorrecta</td>
-        <td><img src="assets/app_inicio_de_sesion_correo_o_contraseña_incorrecta.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Registro: Datos personales</td>
-        <td><img src="assets/app_registro_1.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Registro: Datos personales - Campo obligatorio</td>
-        <td><img src="assets/app_registro_1_campo_obligatorio.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Registro: Suscripción</td>
-        <td><img src="assets/app_registro_2.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Registro: Pago</td>
-        <td><img src="assets/app_registro_3.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Registro: Pago - Campo obligatorio</td>
-        <td><img src="assets/app_registro_3_campo obligatorio.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Página principal</td>
-        <td><img src="assets/app_pagina_principal.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Filtros de búsqueda</td>
-        <td><img src="assets/app_busqueda_filtros.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Resultados de la búsqueda</td>
-        <td><img src="assets/app_busqueda_resultado.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Sin resultados de la búsqueda</td>
-        <td><img src="assets/app_busqueda_sin_resultado.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Rutinas favoritas</td>
-        <td><img src="assets/app_rutinas_favoritas.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Detalles de rutina</td>
-        <td><img src="assets/app_detalle_rutina.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Detalles de rutina favorita</td>
-        <td><img src="assets/app_detalle_de_rutina_favorita.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Corrección de rutina en vivo</td>
-        <td><img src="assets/app_correccion_de_rutina_en_vivo.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Vista previa de ejercicio de rutina</td>
-        <td><img src="assets/app_vista_previa_del_ejercicio.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Calificar rutina</td>
-        <td><img src="assets/app_calificar_rutina.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Rutina calificada: Mensaje emergente</td>
-        <td><img src="assets/app_rutina_calificada_1.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Rutina calificada</td>
-        <td><img src="assets/app_rutina_calificada_2.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Calificar rutina favorita</td>
-        <td><img src="assets/app_calificar_rutina_favorita.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Rutina favorita calificada: Mensaje emergente</td>
-        <td><img src="assets/app_rutina_favorita_calificada_1.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Rutina favorita calificada</td>
-        <td><img src="assets/app_rutina_favorita_calificada_2.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Perfil</td>
-        <td><img src="assets/app_perfil.png" width="250"/></td>
-    </tr>
-    <tr>
-        <td>Editar perfil</td>
-        <td><img src="assets/app_editar_perfil.png" width="250"/></td>
-    </tr>
-</table>
+<img src="assets/w_inicio_de_sesión.jpg" width="210"/>
+<img src="assets/w_inicio_de_sesion_campo_obligatorio.jpg" width="210"/>
+<img src="assets/w_inicio_de_sesion_correo_o_contraseña_incorrecta.jpg" width="210"/>
+<img src="assets/w_registro_1.jpg" width="210"/>
+<img src="assets/w_registro_1_campo_obligatorio.jpg" width="210"/>
+<img src="assets/w_registro_2.jpg" width="210"/>
+<img src="assets/w_registro_3.jpg" width="210"/>
+<img src="assets/w_registro_3_campo obligatorio.jpg" width="210"/>
+<img src="assets/w_pagina_principal.jpg" width="210"/>
+<img src="assets/w_busqueda_filtros.jpg" width="210"/>
+<img src="assets/w_busqueda_resultado.jpg" width="210"/>
+<img src="assets/w_busqueda_sin_resultado.jpg" width="210"/>
+<img src="assets/w_rutinas_favoritas.jpg" width="210"/>
+<img src="assets/w_detalle_rutina.jpg" width="210"/>
+<img src="assets/w_detalle_de_rutina_favorita.jpg" width="210"/>
+<img src="assets/w_correccion_de_rutina_en_vivo.jpg" width="210"/>
+<img src="assets/w_vista_previa_del_ejercicio.jpg" width="210"/>
+<img src="assets/w_calificar_rutina.jpg" width="210"/>
+<img src="assets/w_rutina_calificada_1.jpg" width="210"/>
+<img src="assets/w_rutina_calificada_2.jpg" width="210"/>
+<img src="assets/w_calificar_rutina_favorita.jpg" width="210"/>
+<img src="assets/w_rutina_favorita_calificada_1.jpg" width="210"/>
+<img src="assets/w_rutina_favorita_calificada_2.jpg" width="210"/>
+<img src="assets/w_perfil.jpg" width="210"/>
+<img src="assets/w_editar_perfil.jpg" width="210"/>
 
 ### **6.4.2. Applications Wireflow Diagrams**
 
@@ -1360,7 +1279,7 @@ Se realizaron los application wireflow diagrams correspondientes a los user goal
 
 Se propone los siguientes mock-ups para la aplicación móvil EzGym. Se realizaron un total de 25 mock-ups con la herramienta digital Figma siguiendo los elementos de diseños establecidos.
 
-**[Figma: EzGym Application Wireframes](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe-%26-Mock-ups?type=design&node-id=55-702&mode=design)**
+**[Figma: EzGym Application Mock-ups](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe-%26-Mock-ups?type=design&node-id=55-702&mode=design)**
 
 <img src="assets/m_inicio_de_sesión.jpg" width="210"/>
 <img src="assets/m_inicio_de_sesion_campo_obligatorio.jpg" width="210"/>
