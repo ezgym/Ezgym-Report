@@ -1,6 +1,6 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-# INFORME DE TP1
+# INFORME DE TB2
 
 ## INGENIERÍA DE SOFTWARE
 
@@ -23,7 +23,7 @@
 * Adrian Fernando Liviapoma Mendez, u20161a096
 * Gerardo Gabriel Caldas Díaz, u201512034
 
-**Setiembre, 2023**
+**Noviembre, 2023**
 
 # STUDENT OUTCOME
 
@@ -190,3 +190,5 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 **[Reporte TB1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb1.md)**
 
 **[Reporte TP1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tp1.md)**
+
+**[Reporte TB2](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb2.md)**
