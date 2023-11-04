@@ -101,6 +101,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Realice los diagramas correspondientes a los Bounded Context :Auth y Workout
               <br>- Comunique mis ideas con el grupo durante las reuniones planteadas
+              <br><b>TB2:</b>
+              <br>- Participé en las reuniones propuestas por el lider de grupo.
+              <br>- Cumpli con las tareas que fueron asignadas para este entregable.
             </td>
         </tr>
         <tr>
@@ -173,6 +176,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en las reuniones del grupo planteadas
               <br>- Realice las actividades que se me fueron asignadas en el tiempo correspondiente
+              <br><b>TB2:</b>
+              <br>- Comunique mis dudas y sugerencias en el grupo tanto en Whatsapp como discord.
+              <br>- Desarrolle las actividades que fueron asignadas a mi persona.
               <br>
             </td>
         </tr>
