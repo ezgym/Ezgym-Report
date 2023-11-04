@@ -67,15 +67,16 @@
         <th>04/11/2023</th>
         <th>- Adrian Fernando Liviapoma Mendez
         <br>- Victor Esteban Fajardo Rojas
-        <br>- Vanessa Irene Flores Ñahuis</th>
+        <br>- Vanessa Irene Flores Ñahuis
+        <br>- Gerardo Gabriel Caldas Díaz</th>
         <th>Capítulo VI: Solution UX Design</th>
     </tr>
     <tr>
         <th>3.2</th>
         <th>04/11/2023</th>
         <th>- Vanessa Irene Flores Ñahuis
-        <br>- 
-        <br>- </th>
+        <br>- José Sebastián Chacón Córdova
+        </th>
         <th>Capítulo VII: Product Implementation, Validation & Deployment</th>
     </tr>
 </table>
@@ -1407,11 +1408,11 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
         </tr>
         <tr>
             <td><b>Sprint 1 Velocity</td>
-            <td></td>
+            <td>16</td>
         </tr>
         <tr>
             <td><b>Sum of Story Points</td>
-            <td></td>
+            <td>16</td>
         </tr>
     </tbody>
 </table>
@@ -1570,11 +1571,33 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
 
 #### **7.2.1.5. Execution Evidence for Sprint Review**
 
+A continuación se presenta la evidencia de las ramas trabajadas para el desarrollo de la aplicación Móvil.
+
+<img src="assets/github_network_graph.png">
+
 #### **7.2.1.6. Services Documentation Evidence for Sprint Review**
+
+El API está programado para desarollarse em el sprint 2. Para este entregable hemos trabajado con un JSON.
 
 #### **7.2.1.7. Software Deployment Evidence for Sprint Review**
 
+Evidencia del deployment de la landing page.
+
+**[Landing page desplegado](https://ezgym.github.io/LandingPage/)**
+
+<img src="assets/deployment.png">
+
+<img src="assets/deployment_landing.png">
+
+Evidencia del deployment de la aplicación móvil
+
+<img src="assets/deployment_app.png" width="250">
+
 #### **7.2.1.8. Team Collaboration Insights during Sprint**
+
+A continuación se presenta la evidencia de la colaboración del desarrollo de la aplicación móvil en GitHub.
+
+<img src="assets/insights.png">
 
 ## **7.3. Validation Interviews**
 
