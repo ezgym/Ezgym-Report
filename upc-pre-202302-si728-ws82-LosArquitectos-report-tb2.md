@@ -62,6 +62,22 @@
         <br>- Gerardo Gabriel Caldas Díaz</th>
         <th>Capítulo VI: Solution UX Design</th>
     </tr>
+    <tr>
+        <th>3.1</th>
+        <th>04/11/2023</th>
+        <th>- Adrian Fernando Liviapoma Mendez
+        <br>- Victor Esteban Fajardo Rojas
+        <br>- Vanessa Irene Flores Ñahuis</th>
+        <th>Capítulo VI: Solution UX Design</th>
+    </tr>
+    <tr>
+        <th>3.2</th>
+        <th>04/11/2023</th>
+        <th>-
+        <br>- 
+        <br>- </th>
+        <th>Capítulo VII: Product Implementation, Validation & Deployment</th>
+    </tr>
 </table>
 
 # **Capítulo I: Introducción**
