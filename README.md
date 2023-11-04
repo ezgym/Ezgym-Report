@@ -74,6 +74,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participé en las reuniones programadas en Discord.
               <br>- Propuse sugerencias con respecto al desarrollo del trabajo.
+              <br><b>TB2:</b>
+              <br>- Participé de las reuniones realizadas en Discord.
+              <br>- Propuse sugerencias y las comuniqué a los miembros del equipo.
             </td>
         </tr>
         <tr>
@@ -144,6 +147,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Mantuve comunicación constante mediante Discord y WhatsApp con los miembros del equipo.
               <br>- Plantee sugerencias y las comuniqué a los miembros del equipo.
+              <br><b>TB2:</b>
+              <br>- Mantuve comunicación con los miembros del equipo mediante las aplicaciones de Disord y WhatsApp.
+              <br>- Comuniqué mis sugerencias a los miembros del equipo.
             </td>
         </tr>
         <tr>
