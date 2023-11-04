@@ -73,7 +73,7 @@
     <tr>
         <th>3.2</th>
         <th>04/11/2023</th>
-        <th>-
+        <th>- Vanessa Irene Flores Ñahuis
         <br>- 
         <br>- </th>
         <th>Capítulo VII: Product Implementation, Validation & Deployment</th>
@@ -1348,6 +1348,58 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
 ### **7.2.1. Sprint 1**
 
 #### **7.2.1.1. Sprint Planning 1**
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan=2 ><b>Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td><b>Date</td>
+            <td>15/10/2023</td>
+        </tr>
+        <tr>
+            <td><b>Time</td>
+            <td>8:00 PM</td>
+        </tr>
+        <tr>
+            <td><b>Location</td>
+            <td>Reunión en Discord</td>
+        </tr>
+        <tr>
+            <td><b>Prepared By</td>
+            <td>José Sebastián Chacón Córdova</td>
+        </tr>
+        <tr>
+            <td><b>Attendees (to planning meeting)</td>
+            <td>- José Sebastián Chacón Córdova
+                <br>- Vanessa Irene Flores Ñahuis
+                <br>- Gerardo Gabriel Caldas Díaz
+                <br>- Adrian Fernando Liviapoma Mendez
+                <br>- Victor Esteban Fajardo Rojas
+            </td>
+        </tr>
+        <tr>
+            <td colspan=2><b>Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td><b>Sprint 1 Goal</td>
+            <td>Desarrollar las vistas de la aplicación móvil en Flutter</td>
+        </tr>
+        <tr>
+            <td><b>Sprint 1 Velocity</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><b>Sum of Story Points</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 #### **7.2.1.2. Sprint Backlog 1**
 
