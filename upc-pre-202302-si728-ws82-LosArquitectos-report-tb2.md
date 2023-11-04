@@ -1559,6 +1559,60 @@ El proceso de desarrollo del Front-end se encuentra en desarrollo igual que el B
             <td>Vanessa Flores</td>
             <td>Done</td>
         </tr>
+        <tr>
+            <td rowspan="2">US01</td>
+            <td rowspan="2">Buscar rutinas</td>
+            <td>T01</td>
+            <td>Implementar barra de búsqueda</td>
+            <td>Implementar la barra de búsqueda</td>
+            <td>1</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar el listado de rutinas</td>
+            <td>Implementar el listado de rutinas según los parámetros ingresados en la barra de búsqueda</td>
+            <td>3</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US06</td>
+            <td rowspan="2">Visualizar rutinas favoritas</td>
+            <td>T01</td>
+            <td>Implementar el card de la rutina favorita</td>
+            <td>Implementar el card de la rutina favorita</td>
+            <td>3</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar el listado de cards de las rutinas favoritas</td>
+            <td>Implementar el listado de cards de las rutinas favoritas</td>
+            <td>2</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US07</td>
+            <td rowspan="2">Calificar rutina</td>
+            <td>T01</td>
+            <td>Implementar barra de rating en una ventana emergente</td>
+            <td>Implementar barra de rating en una ventana emergente</td>
+            <td>1</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar un botón para regresar</td>
+            <td>Implementar un botón para salir de la ventana emergente</td>
+            <td>1</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
     </tbody>
 </table>
 
