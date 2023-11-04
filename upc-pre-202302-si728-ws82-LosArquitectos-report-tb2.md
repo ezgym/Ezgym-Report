@@ -623,6 +623,14 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
             <br>Dado que me encuentro en la pasarela de pagos cuando hago clic en el ícono con una flecha hacia la izquierda  entonces el sistema me redirige a la sección Planes.
             </td>
         </tr>
+        <tr>
+            <td align="center">US10</td>
+            <td>Visualizar perfil</td>
+            <td>Como cliente quiero visualizar mi perfil en la aplicación para revisar mi información personal, suscripción y métodos de pago registrados.</td>
+            <td>Escenario 1: Ingresa a perfil
+            <br>Dado que me encuentro en la aplicación EzGym cuando selecciono el icono de perfil en la barra de navegación entonces el sistema me redirige a la sección Perfil.
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -704,6 +712,13 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
             <td align="center">US07</td>
             <td>Calificar rutina de ejercicio</td>
             <td>Como cliente quiero calificar una rutina de ejercicio para dar una valoración a dicha rutina.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">10</td>
+            <td align="center">US10</td>
+            <td>Visualizar perfil</td>
+            <td>Como cliente quiero visualizar mi perfil en la aplicación para revisar mi información personal, suscripción y métodos de pago registrados.</td>
             <td align="center">2</td>
         </tr>
     </tbody>
@@ -1402,6 +1417,63 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
 </table>
 
 #### **7.2.1.2. Sprint Backlog 1**
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Sprint #</td>
+            <td colspan=7>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan=2 align="center"><b>User Story</td>
+            <td colspan=6 align="center"><b>Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td align="center"><b>Id</td>
+            <td align="center"><b>Title</td>
+            <td align="center"><b>Id</td>
+            <td align="center"><b>Title</td>
+            <td align="center"><b>Description</td>
+            <td align="center"><b>Estimation (Hours)</td>
+            <td align="center"><b>Assigned To</td>
+            <td align="center"><b>Status</td>
+        </tr>
+        <tr>
+            <td rowspan="4">US10</td>
+            <td rowspan="4">Visualizar perfil</td>
+            <td>T01</td>
+            <td>Mostrar foto de perfil</td>
+            <td>Mostrar la foto de perfil del usuario</td>
+            <td>1</td>
+            <td>Vanessa Flores</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar la sección información personal</td>
+            <td>Mostrar la información del usuario en su perfil</td>
+            <td>1</td>
+            <td>Vanessa Flores</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T03</td>
+            <td>Implementar la sección suscripción</td>
+            <td>Mostrar el tipo de membresía que el usuario adquirió y el periodo de vigencia</td>
+            <td>1</td>
+            <td>Vanessa Flores</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T04</td>
+            <td>Implementar la sección método de pago</td>
+            <td>Mostrar el método de pago que el usuario ha registrado</td>
+            <td>1</td>
+            <td>Vanessa Flores</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
 
 #### **7.2.1.3. Development Evidence for Sprint Review**
 
