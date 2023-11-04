@@ -1689,9 +1689,12 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 ### **7.3.1. Diseño de Entrevistas**
 
-¿Consideras que la aplicacion es intuitiva de usar?*
+¿Consideras que la aplicacion es intuitiva de usar?
+
 ¿Que opinas de la funcion correcion de rutina?
+
 ¿Consideras que aplicacion te ayudo a mejoras tu tecnica en los ejercicios realizados?
+
 ¿Que tan probable es que uses la aplicacion de manera regular?
 
 ## **7.4. Video About-the-Product**
