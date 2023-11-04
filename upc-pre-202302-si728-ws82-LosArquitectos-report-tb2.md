@@ -1692,6 +1692,7 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 
 ## **7.4. Video About-the-Product**
+[<img src="assets/AboutProduct.png" width="600"/>](https://youtu.be/i-5fUEmQM90)
 
 # **Conclusiones**
 
