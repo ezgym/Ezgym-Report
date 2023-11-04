@@ -1384,14 +1384,66 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
 # **Capítulo VII: Product Implementation, Validation & Deployment**
 
 ## **7.1. Software Configuration Management**
+En el Desarrollo de nuestro proyecto se usará diferentes herramientas de trabajo para 
+sustentar de mejor manera cada punto establecido para el Final Project.
 
 ### **7.1.1. Software Development Environment Configuration**
+#### *Vertabelo*: Aplicación web destinada a la creación de diagramas de bases de datos. Se requiere tener una cuenta en la aplicación Accede a través de: https://vertabelo.com/
+#### *LucidChart*: Aplicación web destinada a la elaboración de Wireflows, User Flows y diagramas de clases. Se requiere poseer una cuenta. Accede a través de: https://www.lucidchart.com
+#### *Structurizr*: Aplicación web destinada a la creación de C4 Context, Container y Component. Requiere una cuenta en el sitio. Accede a través de: https://structurizr.com
+#### *UXPressia*: Aplicación web utilizada en la creación de distintos artefactos de la metodología Lean UX como User Personas, User Journey Maps, Impact Maps, Empathy Maps. Requiere una cuenta en el sitio. Accede a través de: https://uxpressia.com
+#### *Trello*: Se usa para darle seguimiento a las historias de usuario, así como los diferentes hitos presentes en el proyecto. La aplicación se enfoca principalmente en la organización de equipos. Requiere una cuenta. Accede a través de: https://trello.com
+#### *Figma*: Aplicación web destinada al desarrollo y prototipado de los Responsive Web App Mockups y Wireframes. Requiere una cuenta. Accede a través de: https://figma.com
+#### *GitHub*: Aplicación Utilizada para almacenar los repositorios de nuestro proyecto y para su desarrollo. Accede a GitHub a través de: https://github.com
+#### *ExpressJS*: framework utilizado para la creacion de nuestro backend.
+#### *MongoDB*: Base de datos NoSql utilizada para almacenar la informacion de nuestros usuarios.
 
 ### **7.1.2. Source Code Management**
 
+Utilizaremos GitHub como Plataforma y sistema de control de versiones de nuestro 
+proyecto. 
+Se ha creado los repositorios en GitHub dentro de nuestra organización.
+Enlace del repositorio del Back-end: https://github.com/ezgym/fakeapi
+Enlace del repositorio del Front-end: https://github.com/ezgym/App
+Enlace del repositorio del Landing Page: https://github.com/ezgym/LandingPage
+Bajo el modelo de creación de ramas Gitflow es que se crearon los repositorios para el 
+Back-end y Front-end, donde se crearon las siguientes ramas para el desarrollo del 
+proyecto:
+#### Main: En esta rama se encuentra la versión completa, que ha pasado pruebas y no hay problemas en su ejecución. Por lo tanto, es la que se va a desplegar y mostrar a los usuarios.
+#### Hotfix: En caso hubiera un problema con la versión del proyecto en la rama Main, se usará esta rama como respaldo para encontrar y solucionar el problema lo más rápido posible
+#### Release: En esta rama la aplicación web se ejecuta sin problema, pero debe pasar por pruebas para validar todas las funcionalidades. Cuando se realicen las pruebas y no haya errores esta versión pasa a la rama Main.
+#### Develop: Esta rama sigue en desarrollo, solucionar distintos problemas o requerimientos aún en desarrollo. Cuando esta rama se encuentre terminada para un sprint, entonces pasa a la Rama Release
+#### Feature: Estas ramas se irán creando según se necesite agregar una nueva funcionalidad dentro de la aplicación web. Siguiendo el modelo de add feature/fun.
+
 ### **7.1.3. Source Code Style Guide & Conventions**
 
+Para el desarrollo de nuestro proyecto hemos adoptado algunas referencias para 
+nombrar elementos y programar en los lenguajes utilizados para la solución.
+* Convenciones de idioma:
+El uso del español para todos los artefactos que sirven como evidencia de desarrollo de aplicación.
+El uso del idioma inglés para la elaboración del código de compilación ya sea Back-end como Front-end.
+* Nomenclatura:
+Para lo relacionado con el uso y modificación de los distintos repositorios seguiremos utilizando la nomenclatura establecida en Software Development Environment Configuration.
+* Tecnologías:
+Seguiremos utilizando las tecnologías consideradas para el desarrollo de la aplicación durante los anteriores Sprints, como: Flutter, Dart, ExpressJS, HTML5, CSS y JS.
+* Herramientas:
+Seguiremos utilizando tecnologías consideradas para el desarrollo de la aplicación como: Android Studio, Flutter, GitHub, Gitflow, Figma, Visual Studio.
+
 ### **7.1.4. Software Deployment Configuration**
+En esta sección explicaremos como hemos realizado el proceso de despliegue para cada 
+uno de nuestros proyectos.
+- LANDING PAGE: 
+Primero creamos nuestro repositorio en GitHub donde almacenaremos el proyecto del Landing Page. En GitHub existe la opción de desplegar páginas estáticas como lo sería nuestra Landing Page mediante GitHub pages es así como usando esta opción pudimos desplegar nuestra Landing Page y que sea visible para nuestros usuarios.
+
+<img src="assets/landing_repo.JPG" width="600"/>
+
+- BACKEND:
+  Con el back-end aún en desarrollo primero se creó un repositorio en GitHub, donde va a ser almacenado. Entonces cuando lleguemos a su versión final y lista para desplegar usaremos los servicios de Azure para realizar el despliegue de nuestra RESTful API y poder así conectarla con el Front-end.
+
+- FRONT-END: 
+El proceso de desarrollo del Front-end se encuentra en desarrollo igual que el Back-end, se ha creado un repositorio en GitHub para ir trabajando en su implementación. Cuando se encuentre listo y haya pasado las pruebas necesarias usaremos Google Play para poder desplegar el App y esté accesible para nuestros usuarios.
+
+<img src="assets/app_repo.JPG" width="600"/>
 
 ## **7.2. Solution Implementation**
 
@@ -1637,9 +1689,7 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 ### **7.3.1. Diseño de Entrevistas**
 
-### **7.3.2. Registro de Entrevistas**
 
-### **7.3.3. Evaluaciones según heurísticas**
 
 ## **7.4. Video About-the-Product**
 
