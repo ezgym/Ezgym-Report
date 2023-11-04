@@ -1311,6 +1311,10 @@ Se propone los siguientes mock-ups para la aplicación móvil EzGym. Se realizar
 
 ## 6.5. Applications Prototyping
 
+El prototipo de la aplicación móvil se realizó con la herramienta Figma. El prototipo muestra el flujo de los mock-ups creados.
+
+**[Figma: Prototipo](https://www.figma.com/proto/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe-%26-Mock-ups?type=design&node-id=55-2103&t=kjuFURNOvCbGo5TG-1&scaling=min-zoom&page-id=55%3A702&starting-point-node-id=55%3A2103&mode=design)**
+
 # Capítulo VII: Product Implementation, Validation & Deployment
 
 ## 7.1. Software Configuration Management
