@@ -1375,7 +1375,7 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
         </tr>
         <tr>
             <td><b>Date</td>
-            <td>15/10/2023</td>
+            <td>18/10/2023</td>
         </tr>
         <tr>
             <td><b>Time</td>
@@ -1476,6 +1476,95 @@ El prototipo de la aplicación móvil se realizó con la herramienta Figma. El p
 </table>
 
 #### **7.2.1.3. Development Evidence for Sprint Review**
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>Repository</td>
+            <td align="center"><b>Branch</td>
+            <td align="center"><b>Commit Id</td>
+            <td align="center"><b>Commit Message</td>
+            <td align="center"><b>Commited on (Date)</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>538f9165fd403c7850457268d54d7f2ad0904cd6</td>
+            <td>Initial commit</td>
+            <td>18/10/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>4b921604018627ceb763c68f08bfe517f390275d</td>
+            <td>initial commit</td>
+            <td>18/10/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>aa616349ad2d98b1d876c89fb8ff8cbfed6341f8</td>
+            <td>a</td>
+            <td>18/10/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>328f0132eeaca2948114d24d6939deba8e38e78f</td>
+            <td>navbar done</td>
+            <td>19/10/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>810b33b1088041f12132ee23fef847b9be4093d6</td>
+            <td>home screen updated</td>
+            <td>21/10/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>4b85bd837f6708cd20f5c861a8076ccafe73315e</td>
+            <td>aaa</td>
+            <td>01/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>f10bc0265e0fed19ff1044a446b90f46048669b3</td>
+            <td>feat: added profile</td>
+            <td>03/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>61bb763996186d3f528fe239760465c47bd0ab69</td>
+            <td>Merge branch 'feature/profile'</td>
+            <td>03/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>1e8e36378b20685c4f9a50f62b8cb3113212ffdb</td>
+            <td>feat routine details</td>
+            <td>04/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>f89405883c52c7ca120f0690977766140da5d7e5</td>
+            <td>fixed bugs</td>
+            <td>04/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>feature/profile</td>
+            <td>f10bc0265e0fed19ff1044a446b90f46048669b3</td>
+            <td>feat: added profile</td>
+            <td>03/11/2023</td>
+        </tr>
+    </tbody>
+</table>
 
 #### **7.2.1.4. Testing Suite Evidence for Sprint Review**
 
