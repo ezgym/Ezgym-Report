@@ -1341,27 +1341,37 @@ Se propone los siguientes mock-ups para la aplicación móvil EzGym. Se realizar
 
 ### **6.4.4. Applications User Flow Diagrams**
 **User Goal:** Como usuario registrado en la aplicación, quiero poder iniciar sesión para poder acceder a los servicios qué me brinda.
+
 **Happy Path:** El usuario inicia sesión de manera exitosa.
+
 **Unhappy Path:** Error, el usuario o contraseña ingresados son incorrectos.
 <img src="assets/Picture1.jpg">
 
 **User Goal:** Como usuario, quiero modificar mis datos.
+
 **Happy Path:** Los datos se guardaron correctamente.
+
 **Unhappy Path:** No se realizaron cambios en los datos.
 <img src="assets/Picture2.jpg">
 
 **User Goal:** Como usuario, deseo realizar búsqueda de rutinas a través de algunos filtros.
+
 **Happy Path:** Se encontraron las siguientes rutinas.
+
 **Unhappy Path:** No se encontraron rutinas.
 <img src="assets/Picture3.jpg">
 
 **User Goal:** Como usuario, deseo ver a detalle la rutina elegida.
+
 **Happy Path:** Se detalla paso a paso la rutina para poder realizarse.
+
 **Unhappy Path:** Se regresa a la sección de diversas rutinas.
 <img src="assets/Picture4.jpg">
 
 **User Goal:** Como usuario, deseo calificar la rutina realizada.
+
 **Happy Path:** La rutina se calificó correctamente.
+
 **Unhappy Path:** Se regresa al detallado de la rutina.
 <img src="assets/Picture5.jpg">
 
