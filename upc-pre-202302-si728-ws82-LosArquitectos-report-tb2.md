@@ -1358,6 +1358,36 @@ Se realizaron los application wireflow diagrams correspondientes a los user goal
 
 ### 6.4.3. Applications Mock-ups
 
+Se propone los siguientes mock-ups para la aplicación móvil EzGym. Se realizaron un total de 25 mock-ups con la herramienta digital Figma siguiendo los elementos de diseños establecidos.
+
+**[Figma: EzGym Application Wireframes](https://www.figma.com/file/wgYJETr75SKMb3m8pnJbFV/EzGym-App-Wireframe-%26-Mock-ups?type=design&node-id=55-702&mode=design)**
+
+<img src="assets/m_inicio_de_sesión.jpg" width="210"/>
+<img src="assets/m_inicio_de_sesion_campo_obligatorio.jpg" width="210"/>
+<img src="assets/m_inicio_de_sesion_correo_o_contraseña_incorrecta.jpg" width="210"/>
+<img src="assets/m_registro_1.jpg" width="210"/>
+<img src="assets/m_registro_1_campo_obligatorio.jpg" width="210"/>
+<img src="assets/m_registro_2.jpg" width="210"/>
+<img src="assets/m_registro_3.jpg" width="210"/>
+<img src="assets/m_registro_3_campo obligatorio.jpg" width="210"/>
+<img src="assets/m_pagina_principal.jpg" width="210"/>
+<img src="assets/m_busqueda_filtros.jpg" width="210"/>
+<img src="assets/m_busqueda_resultado.jpg" width="210"/>
+<img src="assets/m_busqueda_sin_resultado.jpg" width="210"/>
+<img src="assets/m_rutinas_favoritas.jpg" width="210"/>
+<img src="assets/m_detalle_rutina.jpg" width="210"/>
+<img src="assets/m_detalle_de_rutina_favorita.jpg" width="210"/>
+<img src="assets/m_correccion_de_rutina_en_vivo.jpg" width="210"/>
+<img src="assets/m_vista_previa_del_ejercicio.jpg" width="210"/>
+<img src="assets/m_calificar_rutina.jpg" width="210"/>
+<img src="assets/m_rutina_calificada_1.jpg" width="210"/>
+<img src="assets/m_rutina_calificada_2.jpg" width="210"/>
+<img src="assets/m_calificar_rutina_favorita.jpg" width="210"/>
+<img src="assets/m_rutina_favorita_calificada_1.jpg" width="210"/>
+<img src="assets/m_rutina_favorita_calificada_2.jpg" width="210"/>
+<img src="assets/m_perfil.jpg" width="210"/>
+<img src="assets/m_editar_perfil.jpg" width="210"/>
+
 ### 6.4.4. Applications User Flow Diagrams
 
 ## 6.5. Applications Prototyping
