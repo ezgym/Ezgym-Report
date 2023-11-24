@@ -1997,6 +1997,10 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 #### **7.2.2.5. Execution Evidence for Sprint Review**
 
+A continuación se presenta la evidencia de las ramas trabajadas para el desarrollo de la aplicación Móvil.
+
+<img src="assets/networkSprint2.PNG">
+
 #### **7.2.2.6. Services Documentation Evidence for Sprint Review**
 
 #### **7.2.2.7. Software Deployment Evidence for Sprint Review**
