@@ -1796,6 +1796,89 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 #### **7.2.2.2. Sprint Backlog 2**
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Sprint #</td>
+            <td colspan=7>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan=2 align="center"><b>User Story</td>
+            <td colspan=6 align="center"><b>Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td align="center"><b>Id</td>
+            <td align="center"><b>Title</td>
+            <td align="center"><b>Id</td>
+            <td align="center"><b>Title</td>
+            <td align="center"><b>Description</td>
+            <td align="center"><b>Estimation (Hours)</td>
+            <td align="center"><b>Assigned To</td>
+            <td align="center"><b>Status</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US04</td>
+            <td rowspan="1">Activar supervisión de rutina</td>
+            <td>T01</td>
+            <td>Implementar la vista de supervisión de rutina</td>
+            <td>Implementar la vista de supervisión de rutina</td>
+            <td>8</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US05</td>
+            <td rowspan="1">Agregar rutina a favoritos</td>
+            <td>T01</td>
+            <td>Implementar el endpoint POST rutina a favoritos</td>
+            <td>Implementar el endpoint POST</td>
+            <td>2</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US11</td>
+            <td rowspan="2">Iniciar sesión</td>
+            <td>T01</td>
+            <td>Implementar la vista Iniciar sesión</td>
+            <td>Implementar en la aplicación la vista iniciar sesión con los campos correo y contraseña, y dos botones</td>
+            <td>3</td>
+            <td>Gerardo Caldas</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar el endpoint para el inicio de sesión</td>
+            <td>Implementar el endpoint para el inicio de sesión</td>
+            <td>8</td>
+            <td>Sebastián Chacón</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US12</td>
+            <td rowspan="2">Registrarse</td>
+            <td>T01</td>
+            <td>Implementar la vista de registro de la aplicación</td>
+            <td>Implementar barra de rating en una ventana emergente</td>
+            <td>8</td>
+            <td>- Vanessa Flores
+                <br>- Gerardo Caldas
+                <br>- Adrian Liviapoma
+            </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar el endpoint POST registro de usuario</td>
+            <td>Implementar un endpoint que permita guardar al usuario en la base de datos</td>
+            <td>8</td>
+            <td>Sebastián Chacón
+            </td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
 #### **7.2.2.3. Development Evidence for Sprint Review**
 
 #### **7.2.2.4. Testing Suite Evidence for Sprint Review**
