@@ -104,6 +104,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB2:</b>
               <br>- Participé en las reuniones propuestas por el lider de grupo.
               <br>- Cumpli con las tareas que fueron asignadas para este entregable.
+              <br><b>TF1:</b>
+              <br>- Participe en las reuniones grupales tanto en discord como WhatsApp
+              <br>- Realice las vistas correspondientes a las suscripciones
             </td>
         </tr>
         <tr>
@@ -179,7 +182,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB2:</b>
               <br>- Comunique mis dudas y sugerencias en el grupo tanto en Whatsapp como discord.
               <br>- Desarrolle las actividades que fueron asignadas a mi persona.
-              <br>
+              <br><b>TF1:</b>
+              <br>- Participe en las reuniones grupales tanto en discord como WhatsApp
+              <br>- Comunique mis ideas en las reuniones planteadas
             </td>
         </tr>
         <tr>
