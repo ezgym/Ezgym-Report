@@ -2003,6 +2003,10 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 #### **7.2.2.8. Team Collaboration Insights during Sprint**
 
+A continuación se presenta la evidencia de la colaboración del desarrollo de la aplicación móvil en GitHub.
+
+<img src="assets/InsightSprint2.PNG">
+
 ## **7.3. Validation Interviews**
 
 ### **7.3.1. Diseño de Entrevistas**
