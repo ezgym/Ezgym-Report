@@ -77,7 +77,17 @@
         <th>- Vanessa Irene Flores Ñahuis
         <br>- José Sebastián Chacón Córdova
         </th>
-        <th>Capítulo VII: Product Implementation, Validation & Deployment</th>
+        <th>Capítulo VII: Product Implementation, Validation & Deployment - Sprint 1</th>
+    </tr>
+    <tr>
+        <th>3.2</th>
+        <th>04/11/2023</th>
+        <th>- Vanessa Irene Flores Ñahuis
+        <br>- José Sebastián Chacón Córdova
+        <th>- Adrian Fernando Liviapoma Mendez
+        <br>- Gerardo Gabriel Caldas Díaz
+        </th>
+        <th>Capítulo VII: Product Implementation, Validation & Deployment - Sprint 2</th>
     </tr>
 </table>
 
@@ -632,6 +642,22 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
             <br>Dado que me encuentro en la aplicación EzGym cuando selecciono el icono de perfil en la barra de navegación entonces el sistema me redirige a la sección Perfil.
             </td>
         </tr>
+        <tr>
+            <td align="center">US11</td>
+            <td>Iniciar sesión</td>
+            <td>Como cliente quiero iniciar sesión en la aplicación para poder utilizarla.</td>
+            <td>Escenario 1: Inicio de sesión satisfactorio
+            <br>Dado que acabo de entrar a la aplicación EzGym cuando ingreso correctamente los campos correo y contraseña entonces el sistema me redirige a la página principal.
+            </td>
+        </tr>
+        <tr>
+            <td align="center">US12</td>
+            <td>Registrarse</td>
+            <td>Como cliente quiero registrarme en la aplicación para aprovechar el servicio que brindan.</td>
+            <td>Escenario 1: Registro satisfactorio
+            <br>Dado que acabo la sección registrarse de la aplicación EzGym cuando ingreso correctamente los campos solicitados entonces el sistema me registra en su base de datos y me redirige a la página principal.
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -689,37 +715,51 @@ Para poder desarrollar la aplicación es necesario definir un segmento objetivo 
         </tr>
         <tr>
             <td align="center">6</td>
+            <td align="center">US12</td>
+            <td>Registrarse</td>
+            <td>Como cliente quiero registrarme en la aplicación para aprovechar el servicio que brindan.</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">7</td>
             <td align="center">US09</td>
             <td>Adquirir plan</td>
             <td>Como cliente quiero adquirir un plan para conseguir las funcionalidades premium de la aplicación.</td>
             <td align="center">3</td>
         </tr>
         <tr>
-            <td align="center">7</td>
+            <td align="center">8</td>
             <td align="center">US05</td>
             <td>Agregar rutina a favoritos</td>
             <td>Como cliente quiero agregar una rutina a favoritos para posteriormente acceder rápidamente.</td>
             <td align="center">2</td>
         </tr>
         <tr>
-            <td align="center">8</td>
+            <td align="center">9</td>
             <td align="center">US06</td>
             <td>Visualizar rutinas favoritas</td>
             <td>Como cliente quiero visualizar mis rutinas favoritas para encontrar y acceder rápidamente a la rutina que desee.</td>
             <td align="center">2</td>
         </tr>
         <tr>
-            <td align="center">9</td>
+            <td align="center">10</td>
             <td align="center">US07</td>
             <td>Calificar rutina de ejercicio</td>
             <td>Como cliente quiero calificar una rutina de ejercicio para dar una valoración a dicha rutina.</td>
             <td align="center">2</td>
         </tr>
         <tr>
-            <td align="center">10</td>
+            <td align="center">11</td>
             <td align="center">US10</td>
             <td>Visualizar perfil</td>
             <td>Como cliente quiero visualizar mi perfil en la aplicación para revisar mi información personal, suscripción y métodos de pago registrados.</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td align="center">12</td>
+            <td align="center">US11</td>
+            <td>Iniciar sesión</td>
+            <td>Como cliente quiero iniciar sesión en la aplicación para poder utilizarla.</td>
             <td align="center">2</td>
         </tr>
     </tbody>
