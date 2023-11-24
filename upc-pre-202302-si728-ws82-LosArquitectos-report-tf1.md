@@ -80,8 +80,8 @@
         <th>Capítulo VII: Product Implementation, Validation & Deployment - Sprint 1</th>
     </tr>
     <tr>
-        <th>3.2</th>
-        <th>04/11/2023</th>
+        <th>4.1</th>
+        <th>24/11/2023</th>
         <th>- Vanessa Irene Flores Ñahuis
         <br>- José Sebastián Chacón Córdova
         <th>- Adrian Fernando Liviapoma Mendez
