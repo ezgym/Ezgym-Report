@@ -1881,6 +1881,118 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 #### **7.2.2.3. Development Evidence for Sprint Review**
 
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>Repository</td>
+            <td align="center"><b>Branch</td>
+            <td align="center"><b>Commit Id</td>
+            <td align="center"><b>Commit Message</td>
+            <td align="center"><b>Commited on (Date)</td>
+        </tr>
+        <tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>c30ef993be6f367d202ae16fc4c81db34dbee010</td>
+            <td>add login</td>
+            <td>13/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>f825cacc2566f16d3909010c97be19c5a274fa25</td>
+            <td>New adition</td>
+            <td>15/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>0c094d6ad4a0b0fd40a246909fd489f9abe746ce</td>
+            <td>adding subscription plans</td>
+            <td>16/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>27f9c081b77e2f2aedaf6d699b757a4a78f1aada</td>
+            <td>Merge pull request #1 from ezgym/feature_register_subscription</td>
+            <td>16/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>ab935206039bb9fb977b6cc6071d0d96a9d9bbfa</td>
+            <td>Actualization</td>
+            <td>17/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>f448ce85e93cf716a9b757a34e235f64630bf7b2</td>
+            <td>Final actualization</td>
+            <td>17/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>ecd4c9589f1187a2e2028e276930d98cc2ab4c6b</td>
+            <td>feat: added register</td>
+            <td>18/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>5a8eb49c65261d144894c5716fe6d2087800682b</td>
+            <td>fix: navigator</td>
+            <td>18/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>451e916ca451060636f0ff12bfcc525c7dff19ef</td>
+            <td>backend added</td>
+            <td>19/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>75ee38060144a4250e49b26a3beae07329977b4f</td>
+            <td>fixed issues</td>
+            <td>19/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>6076e59bdedd34633ab4a4907fc278221972234f</td>
+            <td>fixed compatibility issues</td>
+            <td>19/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>login</td>
+            <td>183090fae702a7eee9e19cc200d411a5628cb54c</td>
+            <td>pose detection added</td>
+            <td>19/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>ef3ef6dd3461feb6db5443c410a2c373da3b53da</td>
+            <td>Merge pull request #2 from ezgym/login</td>
+            <td>19/11/2023</td>
+        </tr>
+        <tr>
+            <td>App</td>
+            <td>main</td>
+            <td>25010acf743b9e11ff8a7e8fd43c1557465195fa</td>
+            <td>fixed issues</td>
+            <td>24/11/2023</td>
+        </tr>
+        </tr>
+    </tbody>
+</table>
+
 #### **7.2.2.4. Testing Suite Evidence for Sprint Review**
 
 #### **7.2.2.5. Execution Evidence for Sprint Review**
