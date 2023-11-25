@@ -77,6 +77,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB2:</b>
               <br>- Participé de las reuniones realizadas en Discord.
               <br>- Propuse sugerencias y las comuniqué a los miembros del equipo.
+              <br><b>TF1</b>
+              <br>- Participé de las reuniones realizadas en Discord.
+              <br>- Propuse sugerencias y las comuniqué al resto del equipo.
             </td>
         </tr>
         <tr>
@@ -156,6 +159,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TB2:</b>
               <br>- Mantuve comunicación con los miembros del equipo mediante las aplicaciones de Disord y WhatsApp.
               <br>- Comuniqué mis sugerencias a los miembros del equipo.
+              <br><b>TP1:</b>
+              <br>- Mantuve comunicación con el equipo mediante las aplicaciones de Disord y WhatsApp.
+              <br>- Comuniqué sugerencias a los miembros del equipo.
             </td>
         </tr>
         <tr>
@@ -209,3 +215,5 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 **[Reporte TP1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tp1.md)**
 
 **[Reporte TB2](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb2.md)**
+
+**[Reporte TF1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tf1.md)**

@@ -2104,4 +2104,6 @@ aportando diferentes ideas para la realización del proyecto.
 
 **[Reporte TB2](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tb2.md)**
 
+**[Reporte TF1](https://github.com/ezgym/Ezgym-Report/blob/main/upc-pre-202302-si728-ws82-LosArquitectos-report-tf1.md)**
+
 **[Exposición TB1](https://www.youtube.com/playlist?list=PLn6bvdt9Kj2D26oRfJJOz7nokAdfj4F7I)**
