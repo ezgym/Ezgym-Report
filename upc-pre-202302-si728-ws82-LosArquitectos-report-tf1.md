@@ -1748,7 +1748,19 @@ El proceso de desarrollo del Front-end se encuentra en desarrollo igual que el B
 </table>
 
 #### **7.2.1.4. Testing Suite Evidence for Sprint Review**
+Feature: Búsqueda de rutinas
 
+Scenario Outline: Búsqueda de rutinas exitosas
+Given me encuentro en la sección “Encontrar rutinas”
+When hago clic en la barra de búsqueda, escribe el <nombre> de la rutina que quiero
+AND hago clic en el ícono de la lupa
+Then el sistema muestra todos las rutinas que coincidan con lo especificado.
+
+Examples:
+| nombre             |
+| rutinas de piernas |
+| rutinas de brazos  |
+| rutinas de espalda |
 #### **7.2.1.5. Execution Evidence for Sprint Review**
 
 A continuación se presenta la evidencia de las ramas trabajadas para el desarrollo de la aplicación Móvil.
@@ -2034,6 +2046,46 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 </table>
 
 #### **7.2.2.4. Testing Suite Evidence for Sprint Review**
+Feature: Inicio de sesión
+
+Scenario Outline: Inicio de sesión exitoso
+Given acabo de entrar a la aplicación EzGym
+When ingreso correctamente los campos <correo> y <contraseña>
+Then el sistema me redirige a la página principal.
+
+Examples:
+| email              | password           |
+|--------------------|--------------------|
+| carlos@gmail.com   | carlos@gmail.com   |
+| milagros@gmail.com | milagros@gmail.com |
+
+Feature: Rutina guardada en favoritos
+
+Scenario Outline: Rutina agregada exitosamente en favoritos
+Given me encuentro en la vista de una de las rutinas
+When seleccione el ícono corazón del la rutina
+Then el sistema obtiene el <id> de la rutina en mi lista de rutinas favoritas.
+
+Examples:
+| id  |
+|-----|
+| 2   |
+| 5   |
+| 10  |
+
+Feature: Rutina calificada
+
+Scenario Outline: Rutina exitosamente calificada
+Given me encuentro en la vista de una rutina de ejercicio
+When selecciono la <cantidad> de estrellas que considero que se merece la rutina 
+Then sistema obtiene el <id> de la rutina, promedia la calificación y muestra la nueva calificación general de la rutina.
+
+Examples:
+| cantidad | id |
+|----------|----|
+| 4        | 15 |
+| 5        | 36 |
+| 4        | 8  |
 
 #### **7.2.2.5. Execution Evidence for Sprint Review**
 
@@ -2041,9 +2093,6 @@ A continuación se presenta la evidencia de las ramas trabajadas para el desarro
 
 <img src="assets/networkSprint2.PNG">
 
-#### **7.2.2.6. Services Documentation Evidence for Sprint Review**
-
-#### **7.2.2.7. Software Deployment Evidence for Sprint Review**
 
 #### **7.2.2.8. Team Collaboration Insights during Sprint**
 
@@ -2063,9 +2112,6 @@ A continuación se presenta la evidencia de la colaboración del desarrollo de l
 
 ¿Que tan probable es que uses la aplicacion de manera regular?
 
-### **7.3.2. Registro de Entrevistas**
-
-### **7.3.3. Evaluaciones según heurísticas**
 
 ## **7.4. Video About-the-Product**
 [<img src="assets/AboutProduct.png" width="600"/>](https://youtu.be/i-5fUEmQM90)
