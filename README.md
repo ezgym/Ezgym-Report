@@ -56,12 +56,22 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en las reuniones semanales en el discord
               <br>- Colabore dando feedback e insight
+              <br><b>TB2:</b>
+              <br>- Participe en las reuniones semanales en el discord
+              <br>- Colabore dando feedback e insight
+              <br><b>TF:</b>
+              <br>- Participe en las reuniones semanales en el discord
+              <br>- Colabore dando feedback e insight
             </td>
             <td rowspan=5>
               <b>TB1:</b>
               <br>La comunicación establecida para el desarrollo del proyecto por parte del equipo es muy efectiva. Esto debido a que usando la metodología agile y el framework de Scrum, se ha logrado que las reuniones se                 realicen a tiempo sin ningún contratiempo. 
               <br><b>TP1:</b>
               <br>La comunicacion entre los integrantes del grupo fue fluida y efectiva, logramos cumplir los objetivos y organizar las entregas en el tiempo establecido.
+              <br><b>TB2:</b>
+              <br>La comunicacion entre los integrantes del grupo fue fluida y efectiva, logramos cumplir los objetivos y organizar las entregas en el tiempo establecido.
+              <br><b>TF:</b>
+              <br>La comunicacion no fue la esperada, sin embargo logramos cumplir con los objetivos planeados en el sprint
             </td>
         </tr>
         <tr>
@@ -138,6 +148,12 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br><b>TP1:</b>
               <br>- Participe en el planteamiento de la parte estetica del app
               <br>- Desarrolle el mockup y wireframe del landing page
+              <br><b>TB2:</b>
+              <br>- Participe en el desarrollo de las vistas del app
+              <br>- Desarrolle el landing page
+              <br><b>TF:</b>
+              <br>- Participe en el desarrollo del backend
+              <br>- Desarrolle la estimacion de poses del app
             </td>
             <td rowspan=5>
             <br>
@@ -145,6 +161,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
               <br>Al realizar un trabajo en MD el cual puede ser modificado y visto por todos los miembros del grupo favorece a que se puedan corregir los errores entre todos y de esta manera tener una                             mejor presentación al momento de realizar el envío.
               <br><b>TP1:</b>
               <br>Es importante mantener comunicacion constante con el resto del equipo con el fin de brindar opiniones y feedback sobre el desarrollo.
+              <br><b>TB2:</b>
+              <br>Es importante mantener comunicacion constante con el resto del equipo con el fin de brindar opiniones y feedback sobre el desarrollo.
+              <br><b>TF:</b>
+              <br>Es importante leer la documentacion de cada uno de los frameworks a usar y tomar en cuenta las buenas practicas en su desarrollo.
             </td>
         </tr>
         <tr>
